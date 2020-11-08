@@ -1,0 +1,300 @@
+{
+  "prefixes": {
+     "flsgv": "http://api.test.dasch.swiss/ontology/082A/flsgv/v2",
+     "foaf": "http://xmlns.com/foaf/0.1/",
+     "dcterms": "http://purl.org/dc/terms/"
+  },
+"project": {
+  "shortcode": "082A",
+  "shortname": "flsgv",
+  "longname": "Folkfestival auf der Lenzburg SGV",
+  "descriptions": {
+    "de": "Zwischen 1972 und 1980 fand alljährlich das Folkfestival auf der Lenzburg statt, welches vor allem  aus den Bestrebungen der Akteurinnen und Akteure rund um die Folkclubs Bern und Zürich her vorging. Während dieser acht Jahre vergrösserte sich das Festival kontinuierlich: Seine Dauer  wurde von zunächst einem auf zwei Tage verlängert, es traten vermehrt internationale Künstlerin nen und Künstlern aus verschiedenen Subgenres des Folk auf und auch der Publikumsandrang  wuchs stetig. Aus diesem Grund und auch weil verschiedene politische und gesellschaftliche Un ruhen die schweizerische Folkszene in Bewegung brachten, wurde die Burg allmählich zu eng und  es fand zu Beginn der 1980er Jahre das letzte Festival dort statt. Die Tonbandaufnahmen, die während den Auftritten gemacht wurden, kamen 1982 ins SVA nach  Basel, wo sie archiviert und eingelagert wurden. Eine lange Zeit wurde nur wenig mit den Bändern  gearbeitet. Erst 2015 entschied sich das SVA, den Aufnahmen neues Leben einzuhauchen und sie  zu digitalisieren. Zwei Gründe waren hierfür ausschlaggebend: Zum einen können im SVA nicht  die optimalen Bedingungen für die Lagerung von Tonbänder geschaffen werden, zum anderen  verfügt das Archiv über kein Abspielgerät für Magnettonbänder und die Aufnahmen konnten daher nicht mehr angehört werden. Ein ersten Mal wurde dieses Digitalisierungsprojekt einer breiten Öffentlichkeit am Sektionsanlass der SGV Basel am 11. Februar 2019 in Form eines Werkstattbericht vorgestellt."
+  },
+  "keywords": [
+    "Musik",
+    "Folkfestival",
+    "Lenzburg"
+ ],
+ "ontologies": [
+  {
+     "name": "flsgv",
+     "label": "Folkfestival auf der Lenzburg SGV",
+     "properties": [
+        {
+           "name": "hasIdentifier",
+           "object": "TextValue",
+           "labels": "Signatur",
+           "gui_element": "SimpleText",
+           "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+          }
+        },
+        {
+           "name": "hasIncipit",
+           "object": "TextValue",
+           "labels": "Incipit",
+           "gui_element": "SimpleText",
+           "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+          }
+        },
+        {
+           "name": "hasTitle",
+           "object": "TextValue",
+           "labels": "Titel",
+           "gui_element": "SimpleText",
+           "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+          }
+        },
+        {
+          "name": "hasComposer",
+          "object": "TextValue",
+          "labels": "KomponistIn",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasSongwriter",
+          "object": "TextValue",
+          "labels": "TexterIn",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasInterpreter",
+          "object": "TextValue",
+          "labels": "InterpretIn",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasDuration",
+          "object": "TextValue",
+          "labels": "Dauer [min:sec]",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasSongArchiveNum",
+          "object": "TextValue",
+          "labels": "Liedarchiv-Nummer",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasOldIdentifierTape",
+          "object": "TextValue",
+          "labels": "Alte Signatur Tonband",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasSongwriter",
+          "object": "TextValue",
+          "labels": "TexterIn",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasPage",
+          "object": "TextValue",
+          "labels": "Seite",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasSongNum",
+          "object": "TextValue",
+          "labels": "Liednr.",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasOldSignatureTrack",
+          "object": "TextValue",
+          "labels": "Alte Signatur Track",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+         }
+        },
+        {
+          "name": "hasFirstRecordingLocation",
+          "object": "GeonameValue",
+          "labels": "1. Aufnahmeort",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+          }
+        },
+        {
+          "name": "hasPointOfOriginComposition",
+          "object": "GeonameValue",
+          "labels": "2. Herkunftort Komposition",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+          }
+        },
+        {
+          "name": "hasRecordDateDisplay",
+          "object": "DateValue",
+          "labels": "Aufnahmedatum: Anzeige",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+          }
+        },
+        {
+          "name": "hasCompositionDate:Display",
+          "object": "DateValue",
+          "labels": "Kompositionsdatum: Anzeige",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasInstruments",
+          "object": "ListValue", 
+          "labels": "Instrumente",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasPersons",
+          "object": "TextValue",
+          "labels": "Personen",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasKeywords",
+          "object": "TextValue",
+          "labels": "Schlagworte",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasComment",
+          "object": "TextValue",
+          "labels": "Kommentar",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasMusicGenre",
+          "object": "ListValue",
+          "labels": "Objektart",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasCarrierType",
+          "object": "ListValue",
+          "labels": "Originalträger",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "isPartOf",
+          "object": "TextValue",
+          "labels": "Ist ein Teil von",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasCollection",
+          "object": "TextValue",
+          "labels": "Sammlung",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasCopyright",
+          "object": "TextValue",
+          "labels": "Copyright",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasSimilarTracks",
+          "object": "TextValue",
+          "labels": "Ähnliche Lieder/Stücke",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        {
+          "name": "hasEntryDate",
+          "object": "DateValue",
+          "labels": "Erfassungsdatum",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+            "maxlength": "128",
+            "size": 32
+          }
+        },
+        
