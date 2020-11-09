@@ -15,13 +15,13 @@
     "Musik",
     "Folkfestival",
     "Lenzburg"
- ],
- "lists": [
-  {
+  ],
+  "lists": [
+    {
      "name": "instruments",
      "labels": {
         "de": "Instrumente"
-     },
+      },
      "nodes": [
         {
            "name": "autoharp",
@@ -187,7 +187,7 @@
         }
       ]
     },
-    {
+      {
        "name": "music genre",
        "labels": {
           "de": "Objektart"
@@ -208,7 +208,7 @@
         ]
       },
       {
-         "name": "carrier type",
+        "name": "carrier type",
          "labels": {
             "de": "Originalträger"
          },
@@ -514,5 +514,167 @@
           "gui_element": "SimpleText",
           "gui_attributes": {
           }
-        },
+        }
+      ],
+        "resources": [
+          {
+             "name": "Song",
+             "labels": "Song",
+             "comments": "none",
+             "super": "Resource",
+             "cardinalities": [
+                {
+                   "propname": ":hasIdentifier",
+                   "cardinality": "1"
+                },
+                {
+                  "propname": ":hasIncipit",
+                  "cardinality": "0-1"
+                },
+                {
+                  "propname": ":hasTitle",
+                  "cardinality": "0-1"
+               },
+               {
+                 "propname": ":hasComposer",
+                 "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasSongwriter",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasInterpreter",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasDuration",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasSongArchiveNum",
+                "cardinality": "0-1"
+               },
+               {
+                "propname": ":hasOldIdentifierTape",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasPage",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasSongNum",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasOldSignatureTrack",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasFirstRecordingLocation",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasPointOfOriginComposition",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasRecordDateDisplay",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasCompositionDate:Display",
+                "cardinality": "0-1"
+               },
+               {
+                "propname": ":hasInstruments",
+                "cardinality": "1-n"
+               },
+               {
+                "propname": ":hasPersons",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasKeywords",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasComment",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasMusicGenre",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasCarrierType",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":isPartOf",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasCollection",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasCopyright",
+                "cardinality": "1"
+               },
+               {
+                "propname": ":hasSimilarTracks",
+                "cardinality": "0-n"
+               },
+               {
+                "propname": ":hasEntryDate",
+                "cardinality": "1"
+               }
+             ]
+          },
+          {
+            "name": "Composer",
+            "labels": "Composer",
+            "comments": "none",
+            "super": "Resource",
+            "cardinalities": [
+               {
+                  "propname": ":hasPointOfOrigin",
+                  "cardinality": "0-n"
+               }
+             ]
+          },
+          {
+            "name": "Songwriter",
+            "labels": "Songwriter",
+            "comments": "none",
+            "super": "Resource",
+            "cardinalities": [
+               {
+                  "propname": ":hasPointOfOrigin",
+                  "cardinality": "0-n"
+               }
+             ]
+          },
+          {
+            "name": "Interpreter",
+            "labels": "Interpreter",
+            "comments": "none",
+            "super": "Resource",
+            "cardinalities": [
+               {
+                  "propname": ":hasPointOfOrigin",
+                  "cardinality": "0-n"
+                }
+              ]
+            }
+          ]
+        }
+      ]  
+    }
+  ]   
+}
+} 
+     
         
