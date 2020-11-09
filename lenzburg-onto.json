@@ -9,13 +9,184 @@
   "shortname": "flsgv",
   "longname": "Folkfestival auf der Lenzburg SGV",
   "descriptions": {
-    "de": "Zwischen 1972 und 1980 fand alljährlich das Folkfestival auf der Lenzburg statt, welches vor allem  aus den Bestrebungen der Akteurinnen und Akteure rund um die Folkclubs Bern und Zürich her vorging. Während dieser acht Jahre vergrösserte sich das Festival kontinuierlich: Seine Dauer  wurde von zunächst einem auf zwei Tage verlängert, es traten vermehrt internationale Künstlerin nen und Künstlern aus verschiedenen Subgenres des Folk auf und auch der Publikumsandrang  wuchs stetig. Aus diesem Grund und auch weil verschiedene politische und gesellschaftliche Un ruhen die schweizerische Folkszene in Bewegung brachten, wurde die Burg allmählich zu eng und  es fand zu Beginn der 1980er Jahre das letzte Festival dort statt. Die Tonbandaufnahmen, die während den Auftritten gemacht wurden, kamen 1982 ins SVA nach  Basel, wo sie archiviert und eingelagert wurden. Eine lange Zeit wurde nur wenig mit den Bändern  gearbeitet. Erst 2015 entschied sich das SVA, den Aufnahmen neues Leben einzuhauchen und sie  zu digitalisieren. Zwei Gründe waren hierfür ausschlaggebend: Zum einen können im SVA nicht  die optimalen Bedingungen für die Lagerung von Tonbänder geschaffen werden, zum anderen  verfügt das Archiv über kein Abspielgerät für Magnettonbänder und die Aufnahmen konnten daher nicht mehr angehört werden. Ein ersten Mal wurde dieses Digitalisierungsprojekt einer breiten Öffentlichkeit am Sektionsanlass der SGV Basel am 11. Februar 2019 in Form eines Werkstattbericht vorgestellt."
+    "de": "Zwischen 1972 und 1980 fand alljährlich das Folkfestival auf der Lenzburg statt, welches vor allem aus den Bestrebungen der Akteurinnen und Akteure rund um die Folkclubs Bern und Zürich her vorging. Während dieser acht Jahre vergrösserte sich das Festival kontinuierlich: Seine Dauer wurde von zunächst einem auf zwei Tage verlängert, es traten vermehrt internationale Künstlerinnen und Künstlern aus verschiedenen Subgenres des Folk auf und auch der Publikumsandrang wuchs stetig. Aus diesem Grund und auch weil verschiedene politische und gesellschaftliche Unruhen die schweizerische Folkszene in Bewegung brachten, wurde die Burg allmählich zu eng und es fand zu Beginn der 1980er Jahre das letzte Festival dort statt. Die Tonbandaufnahmen, die während den Auftritten gemacht wurden, kamen 1982 ins SVA nach Basel, wo sie archiviert und eingelagert wurden. Eine lange Zeit wurde nur wenig mit den Bändern gearbeitet. Erst 2015 entschied sich das SVA, den Aufnahmen neues Leben einzuhauchen und sie zu digitalisieren. Zwei Gründe waren hierfür ausschlaggebend: Zum einen können im SVA nicht die optimalen Bedingungen für die Lagerung von Tonbänder geschaffen werden, zum anderen verfügt das Archiv über kein Abspielgerät für Magnettonbänder und die Aufnahmen konnten daher nicht mehr angehört werden. Ein ersten Mal wurde dieses Digitalisierungsprojekt einer breiten Öffentlichkeit am Sektionsanlass der SGV Basel am 11. Februar 2019 in Form eines Werkstattbericht vorgestellt."
   },
   "keywords": [
     "Musik",
     "Folkfestival",
     "Lenzburg"
  ],
+ "lists": [
+  {
+     "name": "instruments",
+     "labels": {
+        "de": "Instrumente"
+     },
+     "nodes": [
+        {
+           "name": "autoharp",
+           "labels": {
+              "de": "Autoharp"
+           }
+        },
+        {
+          "name": "banjo",
+          "labels": {
+             "de": "Banjo"
+          }
+        },
+        {
+          "name": "bass",
+          "labels": {
+             "de": "Bass"
+          }
+        },
+        {
+          "name": "bassblockflöte",
+          "labels": {
+             "de": "Bassblockflöte"
+          }
+        },
+        {
+          "name": "chor",
+          "labels": {
+             "de": "Chor"
+          }
+        },
+        {
+          "name": "dudelsack",
+          "labels": {
+             "de": "Dudelsack"
+          }
+        },
+        {
+          "name": "e-Bass",
+          "labels": {
+             "de": "E-Bass"
+          }
+        },
+        {
+          "name": "fidel",
+          "labels": {
+             "de": "Fidel"
+          }
+        },
+        {
+          "name": "flöte",
+          "labels": {
+             "de": "Flöte"
+          }
+        },
+        {
+          "name": "geige",
+          "labels": {
+             "de": "Geige"
+          }
+        },
+        {
+          "name": "gesang",
+          "labels": {
+             "de": "Gesang"
+          }
+        },
+        {
+          "name": "gitarre",
+          "labels": {
+             "de": "Gitarre"
+          }
+        },
+        {
+          "name": "kazoo",
+          "labels": {
+             "de": "Kazoo"
+          }
+        },
+        {
+          "name": "löffel",
+          "labels": {
+             "de": "Löffel"
+          }
+        },
+        {
+          "name": "mandoline",
+          "labels": {
+             "de": "Mandoline"
+          }
+        },
+        {
+          "name": "maultrommel",
+          "labels": {
+             "de": "Maultrommel"
+          }
+        },
+        {
+          "name": "mundharmonika",
+          "labels": {
+             "de": "Mundharmonika"
+          }
+        },
+        {
+          "name": "perkussion",
+          "labels": {
+             "de": "Perkussion"
+          }
+        },
+        {
+          "name": "piano",
+          "labels": {
+             "de": "Piano"
+          }
+        },
+        {
+          "name": "querflöte",
+          "labels": {
+             "de": "Querflöte"
+          }
+        },
+        {
+          "name": "sitar",
+          "labels": {
+             "de": "Sitar"
+          }
+        },
+        {
+          "name": "sprecher",
+          "labels": {
+             "de": "Sprecher"
+          }
+        },
+        {
+          "name": "tabla",
+          "labels": {
+             "de": "Tabla"
+          }
+        },
+        {
+          "name": "tin Whistle",
+          "labels": {
+             "de": "Tin Whistle"
+          }
+        },
+        {
+          "name": "trommel",
+          "labels": {
+             "de": "Trommel"
+          }
+        },
+        {
+          "name": "waschbrett",
+          "labels": {
+             "de": "Waschbrett"
+          }
+        },
+        {
+          "name": "zuberbass",
+          "labels": {
+             "de": "Zuberbass"
+          }
+        }
+      ],
+
  "ontologies": [
   {
      "name": "flsgv",
