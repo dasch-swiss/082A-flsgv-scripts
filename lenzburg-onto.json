@@ -507,4 +507,12 @@
             "size": 32
           }
         },
+        {
+          "name": "hasPointOfOrigin",
+          "object": "GeonameValue",
+          "labels": "Herkunftsort",
+          "gui_element": "SimpleText",
+          "gui_attributes": {
+          }
+        },
         
