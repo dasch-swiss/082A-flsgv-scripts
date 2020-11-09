@@ -185,8 +185,47 @@
              "de": "Zuberbass"
           }
         }
-      ],
-
+      ]
+    },
+    {
+       "name": "music genre",
+       "labels": {
+          "de": "Objektart"
+       },
+       "nodes": [
+          {
+             "name": "stück (nur Musik)",
+             "labels": {
+                "de": "Stück (nur Musik)"
+             }
+          },
+          {
+            "name": "lied (Musik+Text)",
+            "labels": {
+               "de": "Lied (Musik+Text)"
+            }
+          }
+        ]
+      },
+      {
+         "name": "carrier type",
+         "labels": {
+            "de": "Originalträger"
+         },
+         "nodes": [
+            {
+               "name": "magnettonband",
+               "labels": {
+                  "de": "Magnettonband"
+               }
+            },
+            {
+              "name": "musikkassette",
+              "labels": {
+                 "de": "Musikkassette"
+              }
+            }
+          ],
  "ontologies": [
   {
      "name": "flsgv",
