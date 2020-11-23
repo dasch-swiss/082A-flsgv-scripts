@@ -4,229 +4,157 @@
      "foaf": "http://xmlns.com/foaf/0.1/",
      "dcterms": "http://purl.org/dc/terms/"
   },
-"project": {
-  "shortcode": "082A",
-  "shortname": "flsgv",
-  "longname": "Folkfestival auf der Lenzburg SGV",
-  "descriptions": {
-    "de": "Zwischen 1972 und 1980 fand alljährlich das Folkfestival auf der Lenzburg statt, welches vor allem aus den Bestrebungen der Akteurinnen und Akteure rund um die Folkclubs Bern und Zürich her vorging. Während dieser acht Jahre vergrösserte sich das Festival kontinuierlich: Seine Dauer wurde von zunächst einem auf zwei Tage verlängert, es traten vermehrt internationale Künstlerinnen und Künstlern aus verschiedenen Subgenres des Folk auf und auch der Publikumsandrang wuchs stetig. Aus diesem Grund und auch weil verschiedene politische und gesellschaftliche Unruhen die schweizerische Folkszene in Bewegung brachten, wurde die Burg allmählich zu eng und es fand zu Beginn der 1980er Jahre das letzte Festival dort statt. Die Tonbandaufnahmen, die während den Auftritten gemacht wurden, kamen 1982 ins SVA nach Basel, wo sie archiviert und eingelagert wurden. Eine lange Zeit wurde nur wenig mit den Bändern gearbeitet. Erst 2015 entschied sich das SVA, den Aufnahmen neues Leben einzuhauchen und sie zu digitalisieren. Zwei Gründe waren hierfür ausschlaggebend: Zum einen können im SVA nicht die optimalen Bedingungen für die Lagerung von Tonbänder geschaffen werden, zum anderen verfügt das Archiv über kein Abspielgerät für Magnettonbänder und die Aufnahmen konnten daher nicht mehr angehört werden. Ein ersten Mal wurde dieses Digitalisierungsprojekt einer breiten Öffentlichkeit am Sektionsanlass der SGV Basel am 11. Februar 2019 in Form eines Werkstattbericht vorgestellt."
-  },
-  "keywords": [
-    "Musik",
-    "Folkfestival",
-    "Lenzburg"
-  ],
-  "lists": [
-    {
-     "name": "instruments",
-     "labels": {
-        "de": "Instrumente"
-      },
-     "nodes": [
+  "project": {
+    "shortcode": "082A",
+    "shortname": "flsgv",
+    "longname": "Folkfestival auf der Lenzburg SGV",
+    "descriptions": { "de": "Zwischen 1972 und 1980 fand alljährlich das Folkfestival auf der Lenzburg statt." },
+    "keywords": [ "Musik", "Folkfestival", "Lenzburg" ],
+    "lists": [
+      {
+      "name": "instruments",
+      "labels": { "de": "Instrumente" },
+      "nodes": [
         {
-           "name": "autoharp",
-           "labels": {
-              "de": "Autoharp"
-           }
+         "name": "autoharp",
+         "labels": { "de": "Autoharp" }
         },
         {
           "name": "banjo",
-          "labels": {
-             "de": "Banjo"
-          }
+          "labels": { "de": "Banjo" }
         },
         {
           "name": "bass",
-          "labels": {
-             "de": "Bass"
-          }
+          "labels": { "de": "Bass" }
         },
         {
           "name": "bassblockflöte",
-          "labels": {
-             "de": "Bassblockflöte"
-          }
+          "labels": { "de": "Bassblockflöte" }
         },
         {
           "name": "chor",
-          "labels": {
-             "de": "Chor"
-          }
+          "labels": { "de": "Chor" }
         },
         {
           "name": "dudelsack",
-          "labels": {
-             "de": "Dudelsack"
-          }
+          "labels": { "de": "Dudelsack" }
         },
         {
           "name": "e-Bass",
-          "labels": {
-             "de": "E-Bass"
-          }
+          "labels": { "de": "E-Bass" }
         },
         {
           "name": "fidel",
-          "labels": {
-             "de": "Fidel"
-          }
+          "labels": { "de": "Fidel" }
         },
         {
           "name": "flöte",
-          "labels": {
-             "de": "Flöte"
-          }
+          "labels": { "de": "Flöte" }
         },
         {
           "name": "geige",
-          "labels": {
-             "de": "Geige"
-          }
+          "labels": { "de": "Geige" }
         },
         {
           "name": "gesang",
-          "labels": {
-             "de": "Gesang"
-          }
+          "labels": { "de": "Gesang" }
         },
         {
           "name": "gitarre",
-          "labels": {
-             "de": "Gitarre"
-          }
+          "labels": { "de": "Gitarre" }
         },
         {
           "name": "kazoo",
-          "labels": {
-             "de": "Kazoo"
-          }
+          "labels": { "de": "Kazoo" }
         },
         {
           "name": "löffel",
-          "labels": {
-             "de": "Löffel"
-          }
+          "labels": { "de": "Löffel" }
         },
         {
           "name": "mandoline",
-          "labels": {
-             "de": "Mandoline"
-          }
+          "labels": { "de": "Mandoline" }
         },
         {
           "name": "maultrommel",
-          "labels": {
-             "de": "Maultrommel"
-          }
+          "labels": { "de": "Maultrommel" }
         },
         {
           "name": "mundharmonika",
-          "labels": {
-             "de": "Mundharmonika"
-          }
+          "labels": { "de": "Mundharmonika" }
         },
         {
           "name": "perkussion",
-          "labels": {
-             "de": "Perkussion"
-          }
+          "labels": { "de": "Perkussion" }
         },
         {
           "name": "piano",
-          "labels": {
-             "de": "Piano"
-          }
+          "labels": { "de": "Piano" }
         },
         {
           "name": "querflöte",
-          "labels": {
-             "de": "Querflöte"
-          }
+          "labels": { "de": "Querflöte" }
         },
         {
           "name": "sitar",
-          "labels": {
-             "de": "Sitar"
-          }
+          "labels": { "de": "Sitar" }
         },
         {
           "name": "sprecher",
-          "labels": {
-             "de": "Sprecher"
-          }
+          "labels": { "de": "Sprecher" }
         },
         {
           "name": "tabla",
-          "labels": {
-             "de": "Tabla"
-          }
+          "labels": { "de": "Tabla" }
         },
         {
           "name": "tin Whistle",
-          "labels": {
-             "de": "Tin Whistle"
-          }
+          "labels": { "de": "Tin Whistle" }
         },
         {
           "name": "trommel",
-          "labels": {
-             "de": "Trommel"
-          }
+          "labels": { "de": "Trommel" }
         },
         {
           "name": "waschbrett",
-          "labels": {
-             "de": "Waschbrett"
-          }
+          "labels": { "de": "Waschbrett" }
         },
         {
           "name": "zuberbass",
-          "labels": {
-             "de": "Zuberbass"
-          }
+          "labels": { "de": "Zuberbass" }
         }
       ]
     },
-      {
+    {  
        "name": "music genre",
-       "labels": {
-          "de": "Objektart"
-       },
+       "labels": { "de": "Objektart" },
        "nodes": [
           {
              "name": "stück (nur Musik)",
-             "labels": {
-                "de": "Stück (nur Musik)"
-             }
+             "labels": { "de": "Stück (nur Musik)" }
           },
           {
             "name": "lied (Musik+Text)",
-            "labels": {
-               "de": "Lied (Musik+Text)"
-            }
+            "labels": { "de": "Lied (Musik+Text)" }
           }
         ]
-      },
+      }, 
       {
         "name": "carrier type",
-         "labels": {
-            "de": "Originalträger"
-         },
-         "nodes": [
+        "labels": { "de": "Originalträger" },
+        "nodes": [
             {
                "name": "magnettonband",
-               "labels": {
-                  "de": "Magnettonband"
-               }
+               "labels": { "de": "Magnettonband" }
             },
             {
               "name": "musikkassette",
-              "labels": {
-                 "de": "Musikkassette"
-              }
+              "labels": { "de": "Musikkassette" }
             }
-          ],
- "ontologies": [
+          ]
+        }
+      ],       
+  "ontologies": [
   {
      "name": "flsgv",
      "label": "Folkfestival auf der Lenzburg SGV",
@@ -388,7 +316,7 @@
           }
         },
         {
-          "name": "hasCompositionDate:Display",
+          "name": "hasCompositionDateDisplay",
           "object": "DateValue",
           "labels": "Kompositionsdatum: Anzeige",
           "gui_element": "SimpleText",
@@ -410,7 +338,7 @@
         {
           "name": "hasPersons",
           "object": "TextValue",
-          "labels": "Personen",
+          "labels": "Personen/Institutionen",
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -584,7 +512,7 @@
                 "cardinality": "1"
                },
                {
-                "propname": ":hasCompositionDate:Display",
+                "propname": ":hasCompositionDateDisplay",
                 "cardinality": "0-1"
                },
                {
@@ -673,8 +601,5 @@
         }
       ]  
     }
-  ]   
-}
-} 
-     
-        
+  }
+    
