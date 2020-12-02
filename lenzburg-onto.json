@@ -250,16 +250,6 @@
           }
         },
         {
-          "name": "hasSongwriter",
-          "object": "TextValue",
-          "labels": "TexterIn",
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
-        },
-        {
           "name": "hasPage",
           "object": "TextValue",
           "labels": "Seite",

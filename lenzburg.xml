@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <permissions id="prop-default">
+    <allow group="UnknownUser">RV</allow>
+    <allow group="KnownUser">V</allow>
+  </permissions>
+  <resource label="obj_inst1" restype=":BlueThing" id="obj_0001" permissions="res-default">
+    <list-prop list="treelistroot" name=":hasListItem">
+      <list permissions="prop-default">Tree list node 02</list>
+    </list-prop>
+  </resource>
+</knora>
