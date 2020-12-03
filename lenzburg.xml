@@ -1,12 +1,3993 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <permissions id="prop-default">
+<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" shortcode="0000" default-ontology="flsgv">
+  <permissions id="res-default">
     <allow group="UnknownUser">RV</allow>
     <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
   </permissions>
-  <resource label="obj_inst1" restype=":BlueThing" id="obj_0001" permissions="res-default">
-    <list-prop list="treelistroot" name=":hasListItem">
-      <list permissions="prop-default">Tree list node 02</list>
-    </list-prop>
+  <permissions id="res-restricted">
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <permissions id="prop-default">
+    <allow group="UnknownUser">V</allow>
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <permissions id="prop-restricted">
+    <allow group="KnownUser">V</allow>
+    <allow group="Creator">CR</allow>
+    <allow group="ProjectAdmin">CR</allow>
+  </permissions>
+  <resource label="SVA_01M_001_a1" restype=":Song" id="obj_0" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a1" restype=":Komponist" id="obj_0" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a1" restype=":Texter" id="obj_0" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a1" restype=":Interpret" id="obj_0" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a2" restype=":Song" id="obj_1" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a2" restype=":Komponist" id="obj_1" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a2" restype=":Texter" id="obj_1" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a2" restype=":Interpret" id="obj_1" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a3" restype=":Song" id="obj_2" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a3" restype=":Komponist" id="obj_2" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a3" restype=":Texter" id="obj_2" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a3" restype=":Interpret" id="obj_2" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a4" restype=":Song" id="obj_3" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a4" restype=":Komponist" id="obj_3" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a4" restype=":Texter" id="obj_3" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a4" restype=":Interpret" id="obj_3" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a5" restype=":Song" id="obj_4" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a5" restype=":Komponist" id="obj_4" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a5" restype=":Texter" id="obj_4" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a5" restype=":Interpret" id="obj_4" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a6" restype=":Song" id="obj_5" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a6" restype=":Komponist" id="obj_5" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a6" restype=":Texter" id="obj_5" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a6" restype=":Interpret" id="obj_5" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a7" restype=":Song" id="obj_6" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a7" restype=":Komponist" id="obj_6" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a7" restype=":Texter" id="obj_6" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a7" restype=":Interpret" id="obj_6" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a8" restype=":Song" id="obj_7" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a8" restype=":Komponist" id="obj_7" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a8" restype=":Texter" id="obj_7" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a8" restype=":Interpret" id="obj_7" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a9" restype=":Song" id="obj_8" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a9" restype=":Komponist" id="obj_8" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a9" restype=":Texter" id="obj_8" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a9" restype=":Interpret" id="obj_8" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a10" restype=":Song" id="obj_9" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a10" restype=":Komponist" id="obj_9" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a10" restype=":Texter" id="obj_9" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a10" restype=":Interpret" id="obj_9" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a11" restype=":Song" id="obj_10" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a11" restype=":Komponist" id="obj_10" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a11" restype=":Texter" id="obj_10" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a11" restype=":Interpret" id="obj_10" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a12" restype=":Song" id="obj_11" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a12" restype=":Komponist" id="obj_11" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a12" restype=":Texter" id="obj_11" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a12" restype=":Interpret" id="obj_11" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a13" restype=":Song" id="obj_12" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a13" restype=":Komponist" id="obj_12" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a13" restype=":Texter" id="obj_12" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a13" restype=":Interpret" id="obj_12" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a14" restype=":Song" id="obj_13" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a14" restype=":Komponist" id="obj_13" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a14" restype=":Texter" id="obj_13" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a14" restype=":Interpret" id="obj_13" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a15" restype=":Song" id="obj_14" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a15" restype=":Komponist" id="obj_14" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a15" restype=":Texter" id="obj_14" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a15" restype=":Interpret" id="obj_14" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a16" restype=":Song" id="obj_15" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a16" restype=":Komponist" id="obj_15" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a16" restype=":Texter" id="obj_15" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a16" restype=":Interpret" id="obj_15" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a17" restype=":Song" id="obj_16" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a17" restype=":Komponist" id="obj_16" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a17" restype=":Texter" id="obj_16" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a17" restype=":Interpret" id="obj_16" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a18" restype=":Song" id="obj_17" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a18" restype=":Komponist" id="obj_17" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a18" restype=":Texter" id="obj_17" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a18" restype=":Interpret" id="obj_17" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a19" restype=":Song" id="obj_18" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a19" restype=":Komponist" id="obj_18" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a19" restype=":Texter" id="obj_18" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a19" restype=":Interpret" id="obj_18" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a20" restype=":Song" id="obj_19" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a20" restype=":Komponist" id="obj_19" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a20" restype=":Texter" id="obj_19" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a20" restype=":Interpret" id="obj_19" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a21" restype=":Song" id="obj_20" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a21" restype=":Komponist" id="obj_20" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a21" restype=":Texter" id="obj_20" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a21" restype=":Interpret" id="obj_20" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a22" restype=":Song" id="obj_21" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a22" restype=":Komponist" id="obj_21" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a22" restype=":Texter" id="obj_21" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a22" restype=":Interpret" id="obj_21" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a23" restype=":Song" id="obj_22" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a23" restype=":Komponist" id="obj_22" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a23" restype=":Texter" id="obj_22" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a23" restype=":Interpret" id="obj_22" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a24" restype=":Song" id="obj_23" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a24" restype=":Komponist" id="obj_23" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a24" restype=":Texter" id="obj_23" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a24" restype=":Interpret" id="obj_23" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a25" restype=":Song" id="obj_24" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a25" restype=":Komponist" id="obj_24" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a25" restype=":Texter" id="obj_24" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a25" restype=":Interpret" id="obj_24" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a26" restype=":Song" id="obj_25" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a26" restype=":Komponist" id="obj_25" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a26" restype=":Texter" id="obj_25" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a26" restype=":Interpret" id="obj_25" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a27" restype=":Song" id="obj_26" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a27" restype=":Komponist" id="obj_26" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a27" restype=":Texter" id="obj_26" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a27" restype=":Interpret" id="obj_26" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a28" restype=":Song" id="obj_27" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a28" restype=":Komponist" id="obj_27" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a28" restype=":Texter" id="obj_27" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a28" restype=":Interpret" id="obj_27" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a29" restype=":Song" id="obj_28" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a29" restype=":Komponist" id="obj_28" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a29" restype=":Texter" id="obj_28" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a29" restype=":Interpret" id="obj_28" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a30" restype=":Song" id="obj_29" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a30" restype=":Komponist" id="obj_29" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a30" restype=":Texter" id="obj_29" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a30" restype=":Interpret" id="obj_29" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a31" restype=":Song" id="obj_30" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a31" restype=":Komponist" id="obj_30" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a31" restype=":Texter" id="obj_30" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a31" restype=":Interpret" id="obj_30" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a32" restype=":Song" id="obj_31" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a32" restype=":Komponist" id="obj_31" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a32" restype=":Texter" id="obj_31" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a32" restype=":Interpret" id="obj_31" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a33" restype=":Song" id="obj_32" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a33" restype=":Komponist" id="obj_32" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a33" restype=":Texter" id="obj_32" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a33" restype=":Interpret" id="obj_32" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a34" restype=":Song" id="obj_33" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a34" restype=":Komponist" id="obj_33" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a34" restype=":Texter" id="obj_33" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a34" restype=":Interpret" id="obj_33" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a35" restype=":Song" id="obj_34" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a35" restype=":Komponist" id="obj_34" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a35" restype=":Texter" id="obj_34" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a35" restype=":Interpret" id="obj_34" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a36" restype=":Song" id="obj_35" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a36" restype=":Komponist" id="obj_35" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a36" restype=":Texter" id="obj_35" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a36" restype=":Interpret" id="obj_35" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a37" restype=":Song" id="obj_36" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a37" restype=":Komponist" id="obj_36" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a37" restype=":Texter" id="obj_36" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a37" restype=":Interpret" id="obj_36" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a38" restype=":Song" id="obj_37" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a38" restype=":Komponist" id="obj_37" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a38" restype=":Texter" id="obj_37" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_a38" restype=":Interpret" id="obj_37" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_a38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b1" restype=":Song" id="obj_38" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b1" restype=":Komponist" id="obj_38" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b1" restype=":Texter" id="obj_38" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b1" restype=":Interpret" id="obj_38" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b2" restype=":Song" id="obj_39" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b2" restype=":Komponist" id="obj_39" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b2" restype=":Texter" id="obj_39" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b2" restype=":Interpret" id="obj_39" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b3" restype=":Song" id="obj_40" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b3" restype=":Komponist" id="obj_40" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b3" restype=":Texter" id="obj_40" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b3" restype=":Interpret" id="obj_40" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b4" restype=":Song" id="obj_41" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b4" restype=":Komponist" id="obj_41" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b4" restype=":Texter" id="obj_41" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b4" restype=":Interpret" id="obj_41" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b5" restype=":Song" id="obj_42" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b5" restype=":Komponist" id="obj_42" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b5" restype=":Texter" id="obj_42" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b5" restype=":Interpret" id="obj_42" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b6" restype=":Song" id="obj_43" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b6" restype=":Komponist" id="obj_43" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b6" restype=":Texter" id="obj_43" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b6" restype=":Interpret" id="obj_43" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b7" restype=":Song" id="obj_44" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b7" restype=":Komponist" id="obj_44" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b7" restype=":Texter" id="obj_44" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b7" restype=":Interpret" id="obj_44" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b8" restype=":Song" id="obj_45" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b8" restype=":Komponist" id="obj_45" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b8" restype=":Texter" id="obj_45" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b8" restype=":Interpret" id="obj_45" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b9" restype=":Song" id="obj_46" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b9" restype=":Komponist" id="obj_46" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b9" restype=":Texter" id="obj_46" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b9" restype=":Interpret" id="obj_46" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b10" restype=":Song" id="obj_47" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b10" restype=":Komponist" id="obj_47" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b10" restype=":Texter" id="obj_47" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b10" restype=":Interpret" id="obj_47" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b11" restype=":Song" id="obj_48" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b11" restype=":Komponist" id="obj_48" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b11" restype=":Texter" id="obj_48" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b11" restype=":Interpret" id="obj_48" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b12" restype=":Song" id="obj_49" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b12" restype=":Komponist" id="obj_49" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b12" restype=":Texter" id="obj_49" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b12" restype=":Interpret" id="obj_49" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b13" restype=":Song" id="obj_50" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b13" restype=":Komponist" id="obj_50" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b13" restype=":Texter" id="obj_50" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b13" restype=":Interpret" id="obj_50" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b14" restype=":Song" id="obj_51" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b14" restype=":Komponist" id="obj_51" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b14" restype=":Texter" id="obj_51" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b14" restype=":Interpret" id="obj_51" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b15" restype=":Song" id="obj_52" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b15" restype=":Komponist" id="obj_52" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b15" restype=":Texter" id="obj_52" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b15" restype=":Interpret" id="obj_52" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b16" restype=":Song" id="obj_53" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b16" restype=":Komponist" id="obj_53" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b16" restype=":Texter" id="obj_53" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b16" restype=":Interpret" id="obj_53" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b17" restype=":Song" id="obj_54" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b17" restype=":Komponist" id="obj_54" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b17" restype=":Texter" id="obj_54" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b17" restype=":Interpret" id="obj_54" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b18" restype=":Song" id="obj_55" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b18" restype=":Komponist" id="obj_55" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b18" restype=":Texter" id="obj_55" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b18" restype=":Interpret" id="obj_55" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b19" restype=":Song" id="obj_56" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b19" restype=":Komponist" id="obj_56" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b19" restype=":Texter" id="obj_56" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b19" restype=":Interpret" id="obj_56" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b20" restype=":Song" id="obj_57" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b20" restype=":Komponist" id="obj_57" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b20" restype=":Texter" id="obj_57" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b20" restype=":Interpret" id="obj_57" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b21" restype=":Song" id="obj_58" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b21" restype=":Komponist" id="obj_58" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b21" restype=":Texter" id="obj_58" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b21" restype=":Interpret" id="obj_58" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b22" restype=":Song" id="obj_59" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b22" restype=":Komponist" id="obj_59" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b22" restype=":Texter" id="obj_59" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b22" restype=":Interpret" id="obj_59" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b23" restype=":Song" id="obj_60" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b23" restype=":Komponist" id="obj_60" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b23" restype=":Texter" id="obj_60" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b23" restype=":Interpret" id="obj_60" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b24" restype=":Song" id="obj_61" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b24" restype=":Komponist" id="obj_61" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b24" restype=":Texter" id="obj_61" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b24" restype=":Interpret" id="obj_61" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b25" restype=":Song" id="obj_62" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b25" restype=":Komponist" id="obj_62" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b25" restype=":Texter" id="obj_62" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b25" restype=":Interpret" id="obj_62" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b26" restype=":Song" id="obj_63" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b26" restype=":Komponist" id="obj_63" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b26" restype=":Texter" id="obj_63" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b26" restype=":Interpret" id="obj_63" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b27" restype=":Song" id="obj_64" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b27" restype=":Komponist" id="obj_64" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b27" restype=":Texter" id="obj_64" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b27" restype=":Interpret" id="obj_64" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b28" restype=":Song" id="obj_65" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b28" restype=":Komponist" id="obj_65" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b28" restype=":Texter" id="obj_65" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b28" restype=":Interpret" id="obj_65" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b29" restype=":Song" id="obj_66" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b29" restype=":Komponist" id="obj_66" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b29" restype=":Texter" id="obj_66" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b29" restype=":Interpret" id="obj_66" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b30" restype=":Song" id="obj_67" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b30" restype=":Komponist" id="obj_67" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b30" restype=":Texter" id="obj_67" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b30" restype=":Interpret" id="obj_67" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b31" restype=":Song" id="obj_68" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b31" restype=":Komponist" id="obj_68" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b31" restype=":Texter" id="obj_68" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b31" restype=":Interpret" id="obj_68" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b32" restype=":Song" id="obj_69" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b32" restype=":Komponist" id="obj_69" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b32" restype=":Texter" id="obj_69" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b32" restype=":Interpret" id="obj_69" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b33" restype=":Song" id="obj_70" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b33" restype=":Komponist" id="obj_70" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b33" restype=":Texter" id="obj_70" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b33" restype=":Interpret" id="obj_70" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b34" restype=":Song" id="obj_71" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b34" restype=":Komponist" id="obj_71" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b34" restype=":Texter" id="obj_71" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b34" restype=":Interpret" id="obj_71" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b34</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b35" restype=":Song" id="obj_72" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b35" restype=":Komponist" id="obj_72" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b35" restype=":Texter" id="obj_72" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b35" restype=":Interpret" id="obj_72" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b35</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b36" restype=":Song" id="obj_73" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b36" restype=":Komponist" id="obj_73" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b36" restype=":Texter" id="obj_73" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b36" restype=":Interpret" id="obj_73" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b36</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b37" restype=":Song" id="obj_74" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b37" restype=":Komponist" id="obj_74" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b37" restype=":Texter" id="obj_74" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b37" restype=":Interpret" id="obj_74" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b37</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b38" restype=":Song" id="obj_75" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b38" restype=":Komponist" id="obj_75" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b38" restype=":Texter" id="obj_75" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b38" restype=":Interpret" id="obj_75" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b38</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b39" restype=":Song" id="obj_76" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b39</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b39" restype=":Komponist" id="obj_76" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b39</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b39" restype=":Texter" id="obj_76" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b39</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b39" restype=":Interpret" id="obj_76" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b39</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b40" restype=":Song" id="obj_77" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b40</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b40" restype=":Komponist" id="obj_77" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b40</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b40" restype=":Texter" id="obj_77" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b40</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_001_b40" restype=":Interpret" id="obj_77" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_001_b40</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a1" restype=":Song" id="obj_78" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a1" restype=":Komponist" id="obj_78" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a1" restype=":Texter" id="obj_78" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a1" restype=":Interpret" id="obj_78" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a2" restype=":Song" id="obj_79" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a2" restype=":Komponist" id="obj_79" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a2" restype=":Texter" id="obj_79" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a2" restype=":Interpret" id="obj_79" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a3" restype=":Song" id="obj_80" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a3" restype=":Komponist" id="obj_80" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a3" restype=":Texter" id="obj_80" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a3" restype=":Interpret" id="obj_80" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a4" restype=":Song" id="obj_81" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a4" restype=":Komponist" id="obj_81" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a4" restype=":Texter" id="obj_81" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a4" restype=":Interpret" id="obj_81" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a5" restype=":Song" id="obj_82" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a5" restype=":Komponist" id="obj_82" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a5" restype=":Texter" id="obj_82" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a5" restype=":Interpret" id="obj_82" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a6" restype=":Song" id="obj_83" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a6" restype=":Komponist" id="obj_83" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a6" restype=":Texter" id="obj_83" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a6" restype=":Interpret" id="obj_83" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a7" restype=":Song" id="obj_84" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a7" restype=":Komponist" id="obj_84" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a7" restype=":Texter" id="obj_84" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a7" restype=":Interpret" id="obj_84" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a8" restype=":Song" id="obj_85" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a8" restype=":Komponist" id="obj_85" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a8" restype=":Texter" id="obj_85" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a8" restype=":Interpret" id="obj_85" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a9" restype=":Song" id="obj_86" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a9" restype=":Komponist" id="obj_86" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a9" restype=":Texter" id="obj_86" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a9" restype=":Interpret" id="obj_86" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a10" restype=":Song" id="obj_87" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a10" restype=":Komponist" id="obj_87" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a10" restype=":Texter" id="obj_87" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a10" restype=":Interpret" id="obj_87" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a11" restype=":Song" id="obj_88" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a11" restype=":Komponist" id="obj_88" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a11" restype=":Texter" id="obj_88" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a11" restype=":Interpret" id="obj_88" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a12" restype=":Song" id="obj_89" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a12" restype=":Komponist" id="obj_89" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a12" restype=":Texter" id="obj_89" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a12" restype=":Interpret" id="obj_89" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a13" restype=":Song" id="obj_90" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a13" restype=":Komponist" id="obj_90" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a13" restype=":Texter" id="obj_90" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a13" restype=":Interpret" id="obj_90" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a14" restype=":Song" id="obj_91" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a14" restype=":Komponist" id="obj_91" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a14" restype=":Texter" id="obj_91" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a14" restype=":Interpret" id="obj_91" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a14</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a15" restype=":Song" id="obj_92" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a15" restype=":Komponist" id="obj_92" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a15" restype=":Texter" id="obj_92" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a15" restype=":Interpret" id="obj_92" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a15</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a16" restype=":Song" id="obj_93" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a16" restype=":Komponist" id="obj_93" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a16" restype=":Texter" id="obj_93" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a16" restype=":Interpret" id="obj_93" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a16</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a17" restype=":Song" id="obj_94" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a17" restype=":Komponist" id="obj_94" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a17" restype=":Texter" id="obj_94" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a17" restype=":Interpret" id="obj_94" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a17</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a18" restype=":Song" id="obj_95" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a18" restype=":Komponist" id="obj_95" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a18" restype=":Texter" id="obj_95" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a18" restype=":Interpret" id="obj_95" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a18</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a19" restype=":Song" id="obj_96" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a19" restype=":Komponist" id="obj_96" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a19" restype=":Texter" id="obj_96" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a19" restype=":Interpret" id="obj_96" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a19</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a20" restype=":Song" id="obj_97" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a20" restype=":Komponist" id="obj_97" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a20" restype=":Texter" id="obj_97" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a20" restype=":Interpret" id="obj_97" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a20</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a21" restype=":Song" id="obj_98" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a21" restype=":Komponist" id="obj_98" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a21" restype=":Texter" id="obj_98" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a21" restype=":Interpret" id="obj_98" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a21</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a22" restype=":Song" id="obj_99" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a22" restype=":Komponist" id="obj_99" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a22" restype=":Texter" id="obj_99" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a22" restype=":Interpret" id="obj_99" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a22</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a23" restype=":Song" id="obj_100" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a23" restype=":Komponist" id="obj_100" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a23" restype=":Texter" id="obj_100" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a23" restype=":Interpret" id="obj_100" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a23</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a24" restype=":Song" id="obj_101" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a24" restype=":Komponist" id="obj_101" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a24" restype=":Texter" id="obj_101" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a24" restype=":Interpret" id="obj_101" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a24</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a25" restype=":Song" id="obj_102" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a25" restype=":Komponist" id="obj_102" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a25" restype=":Texter" id="obj_102" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a25" restype=":Interpret" id="obj_102" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a25</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a26" restype=":Song" id="obj_103" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a26" restype=":Komponist" id="obj_103" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a26" restype=":Texter" id="obj_103" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a26" restype=":Interpret" id="obj_103" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a26</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a27" restype=":Song" id="obj_104" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a27" restype=":Komponist" id="obj_104" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a27" restype=":Texter" id="obj_104" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a27" restype=":Interpret" id="obj_104" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a27</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a28" restype=":Song" id="obj_105" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a28" restype=":Komponist" id="obj_105" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a28" restype=":Texter" id="obj_105" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a28" restype=":Interpret" id="obj_105" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a28</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a29" restype=":Song" id="obj_106" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a29" restype=":Komponist" id="obj_106" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a29" restype=":Texter" id="obj_106" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a29" restype=":Interpret" id="obj_106" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a29</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a30" restype=":Song" id="obj_107" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a30" restype=":Komponist" id="obj_107" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a30" restype=":Texter" id="obj_107" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a30" restype=":Interpret" id="obj_107" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a30</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a31" restype=":Song" id="obj_108" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a31" restype=":Komponist" id="obj_108" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a31" restype=":Texter" id="obj_108" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a31" restype=":Interpret" id="obj_108" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a31</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a32" restype=":Song" id="obj_109" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a32" restype=":Komponist" id="obj_109" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a32" restype=":Texter" id="obj_109" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a32" restype=":Interpret" id="obj_109" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a32</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a33" restype=":Song" id="obj_110" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a33" restype=":Komponist" id="obj_110" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a33" restype=":Texter" id="obj_110" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_a33" restype=":Interpret" id="obj_110" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_a33</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b1" restype=":Song" id="obj_111" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b1" restype=":Komponist" id="obj_111" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b1" restype=":Texter" id="obj_111" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b1" restype=":Interpret" id="obj_111" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b1</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b2" restype=":Song" id="obj_112" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b2" restype=":Komponist" id="obj_112" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b2" restype=":Texter" id="obj_112" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b2" restype=":Interpret" id="obj_112" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b2</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b3" restype=":Song" id="obj_113" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b3" restype=":Komponist" id="obj_113" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b3" restype=":Texter" id="obj_113" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b3" restype=":Interpret" id="obj_113" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b3</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b4" restype=":Song" id="obj_114" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b4" restype=":Komponist" id="obj_114" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b4" restype=":Texter" id="obj_114" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b4" restype=":Interpret" id="obj_114" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b4</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b5" restype=":Song" id="obj_115" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b5" restype=":Komponist" id="obj_115" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b5" restype=":Texter" id="obj_115" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b5" restype=":Interpret" id="obj_115" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b5</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b6" restype=":Song" id="obj_116" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b6" restype=":Komponist" id="obj_116" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b6" restype=":Texter" id="obj_116" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b6" restype=":Interpret" id="obj_116" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b6</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b7" restype=":Song" id="obj_117" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b7" restype=":Komponist" id="obj_117" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b7" restype=":Texter" id="obj_117" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b7" restype=":Interpret" id="obj_117" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b7</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b8" restype=":Song" id="obj_118" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b8" restype=":Komponist" id="obj_118" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b8" restype=":Texter" id="obj_118" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b8" restype=":Interpret" id="obj_118" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b8</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b9" restype=":Song" id="obj_119" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b9" restype=":Komponist" id="obj_119" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b9" restype=":Texter" id="obj_119" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b9" restype=":Interpret" id="obj_119" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b9</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b10" restype=":Song" id="obj_120" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b10" restype=":Komponist" id="obj_120" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b10" restype=":Texter" id="obj_120" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b10" restype=":Interpret" id="obj_120" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b10</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b11" restype=":Song" id="obj_121" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b11" restype=":Komponist" id="obj_121" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b11" restype=":Texter" id="obj_121" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b11" restype=":Interpret" id="obj_121" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b11</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b12" restype=":Song" id="obj_122" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b12" restype=":Komponist" id="obj_122" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b12" restype=":Texter" id="obj_122" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b12" restype=":Interpret" id="obj_122" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b12</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b13" restype=":Song" id="obj_123" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b13" restype=":Komponist" id="obj_123" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b13" restype=":Texter" id="obj_123" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
+  </resource>
+  <resource label="SVA_01M_002_b13" restype=":Interpret" id="obj_123" permissions="res-default">
+    <text-prop name=":hasSignature">
+      <text permissions="prop-default" encoding="utf8">SVA_01M_002_b13</text>
+    </text-prop>
+    <boolean-prop name=":hasBoolean">
+      <boolean permissions="prop-default">true</boolean>
+    </boolean-prop>
   </resource>
 </knora>
