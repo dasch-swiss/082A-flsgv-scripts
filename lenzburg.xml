@@ -22,7 +22,7 @@
     <allow group="Creator">CR</allow>
     <allow group="ProjectAdmin">CR</allow>
   </permissions>
-  <resource label="SVA_01M_001_a1" restype=":Song" id="obj_0" permissions="res-default">
+  <resource label="SVA_01M_001_a1" restype=":Song" id="song_obj_0" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a1</text>
     </text-prop>
@@ -79,12 +79,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich;Thalwil;Hinwil" restype=":InterpretIn" id="obj_0" permissions="res-default">
+  <resource label="Schweiz;Zürich;Thalwil;Hinwil" restype=":InterpretIn" id="int_obj_0" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich;Thalwil;Hinwil</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a2" restype=":Song" id="obj_1" permissions="res-default">
+  <resource label="SVA_01M_001_a2" restype=":Song" id="song_obj_1" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a2</text>
     </text-prop>
@@ -152,12 +152,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_1" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_1" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a3" restype=":Song" id="obj_2" permissions="res-default">
+  <resource label="SVA_01M_001_a3" restype=":Song" id="song_obj_2" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a3</text>
     </text-prop>
@@ -226,12 +226,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_2" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_2" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a4" restype=":Song" id="obj_3" permissions="res-default">
+  <resource label="SVA_01M_001_a4" restype=":Song" id="song_obj_3" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a4</text>
     </text-prop>
@@ -308,22 +308,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_3" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_3" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_3" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_3" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_3" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_3" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a5" restype=":Song" id="obj_4" permissions="res-default">
+  <resource label="SVA_01M_001_a5" restype=":Song" id="song_obj_4" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a5</text>
     </text-prop>
@@ -392,12 +392,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_4" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_4" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a6" restype=":Song" id="obj_5" permissions="res-default">
+  <resource label="SVA_01M_001_a6" restype=":Song" id="song_obj_5" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a6</text>
     </text-prop>
@@ -468,17 +468,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_5" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_5" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_5" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_5" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a7" restype=":Song" id="obj_6" permissions="res-default">
+  <resource label="SVA_01M_001_a7" restype=":Song" id="song_obj_6" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a7</text>
     </text-prop>
@@ -553,12 +553,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_6" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_6" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a8" restype=":Song" id="obj_7" permissions="res-default">
+  <resource label="SVA_01M_001_a8" restype=":Song" id="song_obj_7" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a8</text>
     </text-prop>
@@ -619,12 +619,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="obj_7" permissions="res-default">
+  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="int_obj_7" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;St. Gallen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a9" restype=":Song" id="obj_8" permissions="res-default">
+  <resource label="SVA_01M_001_a9" restype=":Song" id="song_obj_8" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a9</text>
     </text-prop>
@@ -701,22 +701,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_8" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_8" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_8" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_8" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="obj_8" permissions="res-default">
+  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="int_obj_8" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;St. Gallen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a10" restype=":Song" id="obj_9" permissions="res-default">
+  <resource label="SVA_01M_001_a10" restype=":Song" id="song_obj_9" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a10</text>
     </text-prop>
@@ -783,12 +783,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="obj_9" permissions="res-default">
+  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="int_obj_9" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;St. Gallen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a11" restype=":Song" id="obj_10" permissions="res-default">
+  <resource label="SVA_01M_001_a11" restype=":Song" id="song_obj_10" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a11</text>
     </text-prop>
@@ -862,22 +862,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_10" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_10" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_10" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_10" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="obj_10" permissions="res-default">
+  <resource label="Schweiz;St. Gallen" restype=":InterpretIn" id="int_obj_10" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;St. Gallen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a12" restype=":Song" id="obj_11" permissions="res-default">
+  <resource label="SVA_01M_001_a12" restype=":Song" id="song_obj_11" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a12</text>
     </text-prop>
@@ -946,22 +946,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="obj_11" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="comp_obj_11" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="obj_11" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="txt_obj_11" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="obj_11" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_11" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a13" restype=":Song" id="obj_12" permissions="res-default">
+  <resource label="SVA_01M_001_a13" restype=":Song" id="song_obj_12" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a13</text>
     </text-prop>
@@ -1031,22 +1031,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="obj_12" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="comp_obj_12" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="obj_12" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="txt_obj_12" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="obj_12" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_12" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a14" restype=":Song" id="obj_13" permissions="res-default">
+  <resource label="SVA_01M_001_a14" restype=":Song" id="song_obj_13" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a14</text>
     </text-prop>
@@ -1116,22 +1116,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="obj_13" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":KomponistIn" id="comp_obj_13" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="obj_13" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":TexterIn" id="txt_obj_13" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="obj_13" permissions="res-default">
+  <resource label="CSSR;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_13" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">CSSR;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a15" restype=":Song" id="obj_14" permissions="res-default">
+  <resource label="SVA_01M_001_a15" restype=":Song" id="song_obj_14" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a15</text>
     </text-prop>
@@ -1206,22 +1206,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_14" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_14" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_14" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_14" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":InterpretIn" id="obj_14" permissions="res-default">
+  <resource label="USA" restype=":InterpretIn" id="int_obj_14" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a16" restype=":Song" id="obj_15" permissions="res-default">
+  <resource label="SVA_01M_001_a16" restype=":Song" id="song_obj_15" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a16</text>
     </text-prop>
@@ -1287,12 +1287,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":InterpretIn" id="obj_15" permissions="res-default">
+  <resource label="USA" restype=":InterpretIn" id="int_obj_15" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a17" restype=":Song" id="obj_16" permissions="res-default">
+  <resource label="SVA_01M_001_a17" restype=":Song" id="song_obj_16" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a17</text>
     </text-prop>
@@ -1348,12 +1348,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":InterpretIn" id="obj_16" permissions="res-default">
+  <resource label="USA" restype=":InterpretIn" id="int_obj_16" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a18" restype=":Song" id="obj_17" permissions="res-default">
+  <resource label="SVA_01M_001_a18" restype=":Song" id="song_obj_17" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a18</text>
     </text-prop>
@@ -1412,17 +1412,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_17" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_17" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Zürich;Belgien" restype=":InterpretIn" id="obj_17" permissions="res-default">
+  <resource label="Zürich;Belgien" restype=":InterpretIn" id="int_obj_17" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Zürich;Belgien</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a19" restype=":Song" id="obj_18" permissions="res-default">
+  <resource label="SVA_01M_001_a19" restype=":Song" id="song_obj_18" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a19</text>
     </text-prop>
@@ -1484,17 +1484,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_18" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_18" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Zürich;Belgien" restype=":InterpretIn" id="obj_18" permissions="res-default">
+  <resource label="Zürich;Belgien" restype=":InterpretIn" id="int_obj_18" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Zürich;Belgien</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a20" restype=":Song" id="obj_19" permissions="res-default">
+  <resource label="SVA_01M_001_a20" restype=":Song" id="song_obj_19" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a20</text>
     </text-prop>
@@ -1553,17 +1553,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_19" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_19" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Zürich;Belgien" restype=":InterpretIn" id="obj_19" permissions="res-default">
+  <resource label="Zürich;Belgien" restype=":InterpretIn" id="int_obj_19" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Zürich;Belgien</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a21" restype=":Song" id="obj_20" permissions="res-default">
+  <resource label="SVA_01M_001_a21" restype=":Song" id="song_obj_20" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a21</text>
     </text-prop>
@@ -1630,17 +1630,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_20" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_20" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Belgien" restype=":InterpretIn" id="obj_20" permissions="res-default">
+  <resource label="USA;Belgien" restype=":InterpretIn" id="int_obj_20" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Belgien</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a22" restype=":Song" id="obj_21" permissions="res-default">
+  <resource label="SVA_01M_001_a22" restype=":Song" id="song_obj_21" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a22</text>
     </text-prop>
@@ -1710,12 +1710,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":InterpretIn" id="obj_21" permissions="res-default">
+  <resource label="USA" restype=":InterpretIn" id="int_obj_21" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a23" restype=":Song" id="obj_22" permissions="res-default">
+  <resource label="SVA_01M_001_a23" restype=":Song" id="song_obj_22" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a23</text>
     </text-prop>
@@ -1787,22 +1787,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_22" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_22" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_22" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_22" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="obj_22" permissions="res-default">
+  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="int_obj_22" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Burgdorf</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a24" restype=":Song" id="obj_23" permissions="res-default">
+  <resource label="SVA_01M_001_a24" restype=":Song" id="song_obj_23" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a24</text>
     </text-prop>
@@ -1874,22 +1874,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_23" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_23" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_23" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_23" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="obj_23" permissions="res-default">
+  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="int_obj_23" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Burgdorf</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a25" restype=":Song" id="obj_24" permissions="res-default">
+  <resource label="SVA_01M_001_a25" restype=":Song" id="song_obj_24" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a25</text>
     </text-prop>
@@ -1961,22 +1961,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_24" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_24" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_24" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_24" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="obj_24" permissions="res-default">
+  <resource label="Schweiz;Bern;Burgdorf" restype=":InterpretIn" id="int_obj_24" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Burgdorf</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a26" restype=":Song" id="obj_25" permissions="res-default">
+  <resource label="SVA_01M_001_a26" restype=":Song" id="song_obj_25" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a26</text>
     </text-prop>
@@ -2042,12 +2042,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_25" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_25" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a27" restype=":Song" id="obj_26" permissions="res-default">
+  <resource label="SVA_01M_001_a27" restype=":Song" id="song_obj_26" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a27</text>
     </text-prop>
@@ -2119,22 +2119,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schottland" restype=":KomponistIn" id="obj_26" permissions="res-default">
+  <resource label="UK;Schottland" restype=":KomponistIn" id="comp_obj_26" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schottland</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schottland" restype=":TexterIn" id="obj_26" permissions="res-default">
+  <resource label="UK;Schottland" restype=":TexterIn" id="txt_obj_26" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schottland</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_26" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_26" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a28" restype=":Song" id="obj_27" permissions="res-default">
+  <resource label="SVA_01M_001_a28" restype=":Song" id="song_obj_27" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a28</text>
     </text-prop>
@@ -2206,22 +2206,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":KomponistIn" id="obj_27" permissions="res-default">
+  <resource label="Kanada" restype=":KomponistIn" id="comp_obj_27" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":TexterIn" id="obj_27" permissions="res-default">
+  <resource label="Kanada" restype=":TexterIn" id="txt_obj_27" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_27" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_27" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a29" restype=":Song" id="obj_28" permissions="res-default">
+  <resource label="SVA_01M_001_a29" restype=":Song" id="song_obj_28" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a29</text>
     </text-prop>
@@ -2291,22 +2291,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="obj_28" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="comp_obj_28" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="obj_28" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="txt_obj_28" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_28" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_28" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a30" restype=":Song" id="obj_29" permissions="res-default">
+  <resource label="SVA_01M_001_a30" restype=":Song" id="song_obj_29" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a30</text>
     </text-prop>
@@ -2376,22 +2376,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="obj_29" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="comp_obj_29" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="obj_29" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="txt_obj_29" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_29" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_29" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a31" restype=":Song" id="obj_30" permissions="res-default">
+  <resource label="SVA_01M_001_a31" restype=":Song" id="song_obj_30" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a31</text>
     </text-prop>
@@ -2461,22 +2461,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="obj_30" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":KomponistIn" id="comp_obj_30" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="obj_30" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":TexterIn" id="txt_obj_30" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_30" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_30" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a32" restype=":Song" id="obj_31" permissions="res-default">
+  <resource label="SVA_01M_001_a32" restype=":Song" id="song_obj_31" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a32</text>
     </text-prop>
@@ -2549,22 +2549,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_31" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_31" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_31" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_31" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_31" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_31" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a33" restype=":Song" id="obj_32" permissions="res-default">
+  <resource label="SVA_01M_001_a33" restype=":Song" id="song_obj_32" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a33</text>
     </text-prop>
@@ -2637,22 +2637,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_32" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_32" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_32" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_32" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_32" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_32" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a34" restype=":Song" id="obj_33" permissions="res-default">
+  <resource label="SVA_01M_001_a34" restype=":Song" id="song_obj_33" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a34</text>
     </text-prop>
@@ -2721,12 +2721,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_33" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_33" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a35" restype=":Song" id="obj_34" permissions="res-default">
+  <resource label="SVA_01M_001_a35" restype=":Song" id="song_obj_34" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a35</text>
     </text-prop>
@@ -2792,12 +2792,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_34" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_34" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a36" restype=":Song" id="obj_35" permissions="res-default">
+  <resource label="SVA_01M_001_a36" restype=":Song" id="song_obj_35" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a36</text>
     </text-prop>
@@ -2870,22 +2870,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_35" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_35" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_35" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_35" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_35" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_35" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a37" restype=":Song" id="obj_36" permissions="res-default">
+  <resource label="SVA_01M_001_a37" restype=":Song" id="song_obj_36" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a37</text>
     </text-prop>
@@ -2957,17 +2957,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_36" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_36" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_36" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_36" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_a38" restype=":Song" id="obj_37" permissions="res-default">
+  <resource label="SVA_01M_001_a38" restype=":Song" id="song_obj_37" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_a38</text>
     </text-prop>
@@ -3042,22 +3042,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Italien" restype=":KomponistIn" id="obj_37" permissions="res-default">
+  <resource label="Italien" restype=":KomponistIn" id="comp_obj_37" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Italien</text>
     </text-prop>
   </resource>
-  <resource label="Italien" restype=":TexterIn" id="obj_37" permissions="res-default">
+  <resource label="Italien" restype=":TexterIn" id="txt_obj_37" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Italien</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_37" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_37" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b1" restype=":Song" id="obj_38" permissions="res-default">
+  <resource label="SVA_01M_001_b1" restype=":Song" id="song_obj_38" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b1</text>
     </text-prop>
@@ -3123,12 +3123,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_38" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_38" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b2" restype=":Song" id="obj_39" permissions="res-default">
+  <resource label="SVA_01M_001_b2" restype=":Song" id="song_obj_39" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b2</text>
     </text-prop>
@@ -3200,22 +3200,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_39" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_39" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_39" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_39" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="obj_39" permissions="res-default">
+  <resource label="Schweiz;Bern;Köniz" restype=":InterpretIn" id="int_obj_39" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern;Köniz</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b3" restype=":Song" id="obj_40" permissions="res-default">
+  <resource label="SVA_01M_001_b3" restype=":Song" id="song_obj_40" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b3</text>
     </text-prop>
@@ -3281,12 +3281,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_40" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_40" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b4" restype=":Song" id="obj_41" permissions="res-default">
+  <resource label="SVA_01M_001_b4" restype=":Song" id="song_obj_41" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b4</text>
     </text-prop>
@@ -3358,22 +3358,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_41" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_41" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_41" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_41" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_41" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_41" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b5" restype=":Song" id="obj_42" permissions="res-default">
+  <resource label="SVA_01M_001_b5" restype=":Song" id="song_obj_42" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b5</text>
     </text-prop>
@@ -3445,22 +3445,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":KomponistIn" id="obj_42" permissions="res-default">
+  <resource label="Kanada" restype=":KomponistIn" id="comp_obj_42" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":TexterIn" id="obj_42" permissions="res-default">
+  <resource label="Kanada" restype=":TexterIn" id="txt_obj_42" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_42" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_42" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b6" restype=":Song" id="obj_43" permissions="res-default">
+  <resource label="SVA_01M_001_b6" restype=":Song" id="song_obj_43" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b6</text>
     </text-prop>
@@ -3532,22 +3532,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":KomponistIn" id="obj_43" permissions="res-default">
+  <resource label="Kanada" restype=":KomponistIn" id="comp_obj_43" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Kanada" restype=":TexterIn" id="obj_43" permissions="res-default">
+  <resource label="Kanada" restype=":TexterIn" id="txt_obj_43" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_43" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_43" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b7" restype=":Song" id="obj_44" permissions="res-default">
+  <resource label="SVA_01M_001_b7" restype=":Song" id="song_obj_44" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b7</text>
     </text-prop>
@@ -3619,22 +3619,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_44" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_44" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_44" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_44" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_44" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_44" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b8" restype=":Song" id="obj_45" permissions="res-default">
+  <resource label="SVA_01M_001_b8" restype=":Song" id="song_obj_45" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b8</text>
     </text-prop>
@@ -3706,12 +3706,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_45" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_45" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b9" restype=":Song" id="obj_46" permissions="res-default">
+  <resource label="SVA_01M_001_b9" restype=":Song" id="song_obj_46" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b9</text>
     </text-prop>
@@ -3782,17 +3782,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_46" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_46" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="obj_46" permissions="res-default">
+  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="int_obj_46" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schweiz;Zürich;Obfelden</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b10" restype=":Song" id="obj_47" permissions="res-default">
+  <resource label="SVA_01M_001_b10" restype=":Song" id="song_obj_47" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b10</text>
     </text-prop>
@@ -3854,12 +3854,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="obj_47" permissions="res-default">
+  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="int_obj_47" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schweiz;Zürich;Obfelden</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b11" restype=":Song" id="obj_48" permissions="res-default">
+  <resource label="SVA_01M_001_b11" restype=":Song" id="song_obj_48" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b11</text>
     </text-prop>
@@ -3929,12 +3929,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="obj_48" permissions="res-default">
+  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="int_obj_48" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schweiz;Zürich;Obfelden</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b12" restype=":Song" id="obj_49" permissions="res-default">
+  <resource label="SVA_01M_001_b12" restype=":Song" id="song_obj_49" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b12</text>
     </text-prop>
@@ -4002,12 +4002,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="obj_49" permissions="res-default">
+  <resource label="UK;Schweiz;Zürich;Obfelden" restype=":InterpretIn" id="int_obj_49" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;Schweiz;Zürich;Obfelden</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b13" restype=":Song" id="obj_50" permissions="res-default">
+  <resource label="SVA_01M_001_b13" restype=":Song" id="song_obj_50" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b13</text>
     </text-prop>
@@ -4076,12 +4076,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="obj_50" permissions="res-default">
+  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="int_obj_50" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich;Wettingen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b14" restype=":Song" id="obj_51" permissions="res-default">
+  <resource label="SVA_01M_001_b14" restype=":Song" id="song_obj_51" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b14</text>
     </text-prop>
@@ -4150,12 +4150,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="obj_51" permissions="res-default">
+  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="int_obj_51" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich;Wettingen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b15" restype=":Song" id="obj_52" permissions="res-default">
+  <resource label="SVA_01M_001_b15" restype=":Song" id="song_obj_52" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b15</text>
     </text-prop>
@@ -4224,12 +4224,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="obj_52" permissions="res-default">
+  <resource label="Schweiz;Zürich;Wettingen" restype=":InterpretIn" id="int_obj_52" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich;Wettingen</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b16" restype=":Song" id="obj_53" permissions="res-default">
+  <resource label="SVA_01M_001_b16" restype=":Song" id="song_obj_53" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b16</text>
     </text-prop>
@@ -4304,22 +4304,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_53" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_53" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_53" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_53" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_53" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_53" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b17" restype=":Song" id="obj_54" permissions="res-default">
+  <resource label="SVA_01M_001_b17" restype=":Song" id="song_obj_54" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b17</text>
     </text-prop>
@@ -4394,22 +4394,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Südafrika" restype=":KomponistIn" id="obj_54" permissions="res-default">
+  <resource label="Südafrika" restype=":KomponistIn" id="comp_obj_54" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Südafrika</text>
     </text-prop>
   </resource>
-  <resource label="Südafrika" restype=":TexterIn" id="obj_54" permissions="res-default">
+  <resource label="Südafrika" restype=":TexterIn" id="txt_obj_54" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Südafrika</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_54" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_54" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b18" restype=":Song" id="obj_55" permissions="res-default">
+  <resource label="SVA_01M_001_b18" restype=":Song" id="song_obj_55" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b18</text>
     </text-prop>
@@ -4481,22 +4481,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_55" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_55" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_55" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_55" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_55" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_55" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b19" restype=":Song" id="obj_56" permissions="res-default">
+  <resource label="SVA_01M_001_b19" restype=":Song" id="song_obj_56" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b19</text>
     </text-prop>
@@ -4559,12 +4559,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_56" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_56" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b20" restype=":Song" id="obj_57" permissions="res-default">
+  <resource label="SVA_01M_001_b20" restype=":Song" id="song_obj_57" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b20</text>
     </text-prop>
@@ -4632,12 +4632,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_57" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_57" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b21" restype=":Song" id="obj_58" permissions="res-default">
+  <resource label="SVA_01M_001_b21" restype=":Song" id="song_obj_58" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b21</text>
     </text-prop>
@@ -4705,12 +4705,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_58" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_58" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b22" restype=":Song" id="obj_59" permissions="res-default">
+  <resource label="SVA_01M_001_b22" restype=":Song" id="song_obj_59" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b22</text>
     </text-prop>
@@ -4773,12 +4773,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_59" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_59" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b23" restype=":Song" id="obj_60" permissions="res-default">
+  <resource label="SVA_01M_001_b23" restype=":Song" id="song_obj_60" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b23</text>
     </text-prop>
@@ -4845,12 +4845,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="obj_60" permissions="res-default">
+  <resource label="Schweiz;Basel-Stadt;Basel" restype=":InterpretIn" id="int_obj_60" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b24" restype=":Song" id="obj_61" permissions="res-default">
+  <resource label="SVA_01M_001_b24" restype=":Song" id="song_obj_61" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b24</text>
     </text-prop>
@@ -4922,22 +4922,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Bundesrepublik Deutschland" restype=":KomponistIn" id="obj_61" permissions="res-default">
+  <resource label="Bundesrepublik Deutschland" restype=":KomponistIn" id="comp_obj_61" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
   </resource>
-  <resource label="Bundesrepublik Deutschland" restype=":TexterIn" id="obj_61" permissions="res-default">
+  <resource label="Bundesrepublik Deutschland" restype=":TexterIn" id="txt_obj_61" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_61" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_61" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b25" restype=":Song" id="obj_62" permissions="res-default">
+  <resource label="SVA_01M_001_b25" restype=":Song" id="song_obj_62" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b25</text>
     </text-prop>
@@ -5009,22 +5009,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Bundesrepublik Deutschland" restype=":KomponistIn" id="obj_62" permissions="res-default">
+  <resource label="Bundesrepublik Deutschland" restype=":KomponistIn" id="comp_obj_62" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
   </resource>
-  <resource label="Bundesrepublik Deutschland" restype=":TexterIn" id="obj_62" permissions="res-default">
+  <resource label="Bundesrepublik Deutschland" restype=":TexterIn" id="txt_obj_62" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_62" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_62" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b26" restype=":Song" id="obj_63" permissions="res-default">
+  <resource label="SVA_01M_001_b26" restype=":Song" id="song_obj_63" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b26</text>
     </text-prop>
@@ -5096,22 +5096,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Deutsche Demokratische Republik" restype=":KomponistIn" id="obj_63" permissions="res-default">
+  <resource label="Deutsche Demokratische Republik" restype=":KomponistIn" id="comp_obj_63" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Deutsche Demokratische Republik</text>
     </text-prop>
   </resource>
-  <resource label="Deutsche Demokratische Republik" restype=":TexterIn" id="obj_63" permissions="res-default">
+  <resource label="Deutsche Demokratische Republik" restype=":TexterIn" id="txt_obj_63" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Deutsche Demokratische Republik</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_63" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_63" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b27" restype=":Song" id="obj_64" permissions="res-default">
+  <resource label="SVA_01M_001_b27" restype=":Song" id="song_obj_64" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b27</text>
     </text-prop>
@@ -5183,22 +5183,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_64" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_64" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_64" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_64" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_64" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_64" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b28" restype=":Song" id="obj_65" permissions="res-default">
+  <resource label="SVA_01M_001_b28" restype=":Song" id="song_obj_65" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b28</text>
     </text-prop>
@@ -5270,22 +5270,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":KomponistIn" id="obj_65" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":KomponistIn" id="comp_obj_65" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_65" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_65" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_65" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_65" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b29" restype=":Song" id="obj_66" permissions="res-default">
+  <resource label="SVA_01M_001_b29" restype=":Song" id="song_obj_66" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b29</text>
     </text-prop>
@@ -5341,12 +5341,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_66" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_66" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b30" restype=":Song" id="obj_67" permissions="res-default">
+  <resource label="SVA_01M_001_b30" restype=":Song" id="song_obj_67" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b30</text>
     </text-prop>
@@ -5421,22 +5421,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_67" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_67" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_67" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_67" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_67" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_67" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b31" restype=":Song" id="obj_68" permissions="res-default">
+  <resource label="SVA_01M_001_b31" restype=":Song" id="song_obj_68" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b31</text>
     </text-prop>
@@ -5495,17 +5495,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_68" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_68" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_68" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_68" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b32" restype=":Song" id="obj_69" permissions="res-default">
+  <resource label="SVA_01M_001_b32" restype=":Song" id="song_obj_69" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b32</text>
     </text-prop>
@@ -5577,22 +5577,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_69" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_69" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_69" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_69" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_69" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_69" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b33" restype=":Song" id="obj_70" permissions="res-default">
+  <resource label="SVA_01M_001_b33" restype=":Song" id="song_obj_70" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b33</text>
     </text-prop>
@@ -5651,17 +5651,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_70" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_70" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_70" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_70" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b34" restype=":Song" id="obj_71" permissions="res-default">
+  <resource label="SVA_01M_001_b34" restype=":Song" id="song_obj_71" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b34</text>
     </text-prop>
@@ -5733,22 +5733,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_71" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_71" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_71" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_71" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_71" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_71" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b35" restype=":Song" id="obj_72" permissions="res-default">
+  <resource label="SVA_01M_001_b35" restype=":Song" id="song_obj_72" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b35</text>
     </text-prop>
@@ -5820,22 +5820,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_72" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_72" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_72" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_72" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_72" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_72" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b36" restype=":Song" id="obj_73" permissions="res-default">
+  <resource label="SVA_01M_001_b36" restype=":Song" id="song_obj_73" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b36</text>
     </text-prop>
@@ -5907,22 +5907,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_73" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_73" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_73" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_73" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_73" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_73" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b37" restype=":Song" id="obj_74" permissions="res-default">
+  <resource label="SVA_01M_001_b37" restype=":Song" id="song_obj_74" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b37</text>
     </text-prop>
@@ -5994,22 +5994,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_74" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_74" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_74" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_74" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_74" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_74" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b38" restype=":Song" id="obj_75" permissions="res-default">
+  <resource label="SVA_01M_001_b38" restype=":Song" id="song_obj_75" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b38</text>
     </text-prop>
@@ -6084,22 +6084,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_75" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_75" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_75" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_75" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_75" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_75" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b39" restype=":Song" id="obj_76" permissions="res-default">
+  <resource label="SVA_01M_001_b39" restype=":Song" id="song_obj_76" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b39</text>
     </text-prop>
@@ -6171,22 +6171,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz,Bern" restype=":KomponistIn" id="obj_76" permissions="res-default">
+  <resource label="Schweiz,Bern" restype=":KomponistIn" id="comp_obj_76" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz,Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":TexterIn" id="obj_76" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":TexterIn" id="txt_obj_76" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_76" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_76" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_001_b40" restype=":Song" id="obj_77" permissions="res-default">
+  <resource label="SVA_01M_001_b40" restype=":Song" id="song_obj_77" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_001_b40</text>
     </text-prop>
@@ -6250,17 +6250,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_77" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_77" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_77" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_77" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a1" restype=":Song" id="obj_78" permissions="res-default">
+  <resource label="SVA_01M_002_a1" restype=":Song" id="song_obj_78" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a1</text>
     </text-prop>
@@ -6334,22 +6334,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_78" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_78" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_78" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_78" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_78" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_78" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a2" restype=":Song" id="obj_79" permissions="res-default">
+  <resource label="SVA_01M_002_a2" restype=":Song" id="song_obj_79" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a2</text>
     </text-prop>
@@ -6410,17 +6410,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_79" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_79" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_79" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_79" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a3" restype=":Song" id="obj_80" permissions="res-default">
+  <resource label="SVA_01M_002_a3" restype=":Song" id="song_obj_80" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a3</text>
     </text-prop>
@@ -6492,22 +6492,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_80" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_80" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_80" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_80" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_80" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_80" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a4" restype=":Song" id="obj_81" permissions="res-default">
+  <resource label="SVA_01M_002_a4" restype=":Song" id="song_obj_81" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a4</text>
     </text-prop>
@@ -6579,22 +6579,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_81" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_81" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_81" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_81" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_81" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_81" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a5" restype=":Song" id="obj_82" permissions="res-default">
+  <resource label="SVA_01M_002_a5" restype=":Song" id="song_obj_82" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a5</text>
     </text-prop>
@@ -6666,22 +6666,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_82" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_82" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_82" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_82" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_82" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_82" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a6" restype=":Song" id="obj_83" permissions="res-default">
+  <resource label="SVA_01M_002_a6" restype=":Song" id="song_obj_83" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a6</text>
     </text-prop>
@@ -6743,17 +6743,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_83" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_83" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_83" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_83" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a7" restype=":Song" id="obj_84" permissions="res-default">
+  <resource label="SVA_01M_002_a7" restype=":Song" id="song_obj_84" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a7</text>
     </text-prop>
@@ -6819,12 +6819,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_84" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_84" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a8" restype=":Song" id="obj_85" permissions="res-default">
+  <resource label="SVA_01M_002_a8" restype=":Song" id="song_obj_85" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a8</text>
     </text-prop>
@@ -6884,12 +6884,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_85" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_85" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a9" restype=":Song" id="obj_86" permissions="res-default">
+  <resource label="SVA_01M_002_a9" restype=":Song" id="song_obj_86" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a9</text>
     </text-prop>
@@ -6952,12 +6952,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_86" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_86" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a10" restype=":Song" id="obj_87" permissions="res-default">
+  <resource label="SVA_01M_002_a10" restype=":Song" id="song_obj_87" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a10</text>
     </text-prop>
@@ -7021,17 +7021,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_87" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_87" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_87" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_87" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a11" restype=":Song" id="obj_88" permissions="res-default">
+  <resource label="SVA_01M_002_a11" restype=":Song" id="song_obj_88" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a11</text>
     </text-prop>
@@ -7094,12 +7094,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_88" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_88" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a12" restype=":Song" id="obj_89" permissions="res-default">
+  <resource label="SVA_01M_002_a12" restype=":Song" id="song_obj_89" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a12</text>
     </text-prop>
@@ -7159,12 +7159,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_89" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_89" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a13" restype=":Song" id="obj_90" permissions="res-default">
+  <resource label="SVA_01M_002_a13" restype=":Song" id="song_obj_90" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a13</text>
     </text-prop>
@@ -7232,12 +7232,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_90" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_90" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a14" restype=":Song" id="obj_91" permissions="res-default">
+  <resource label="SVA_01M_002_a14" restype=":Song" id="song_obj_91" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a14</text>
     </text-prop>
@@ -7303,12 +7303,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_91" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_91" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a15" restype=":Song" id="obj_92" permissions="res-default">
+  <resource label="SVA_01M_002_a15" restype=":Song" id="song_obj_92" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a15</text>
     </text-prop>
@@ -7368,12 +7368,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_92" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_92" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a16" restype=":Song" id="obj_93" permissions="res-default">
+  <resource label="SVA_01M_002_a16" restype=":Song" id="song_obj_93" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a16</text>
     </text-prop>
@@ -7445,22 +7445,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_93" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_93" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_93" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_93" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_93" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_93" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a17" restype=":Song" id="obj_94" permissions="res-default">
+  <resource label="SVA_01M_002_a17" restype=":Song" id="song_obj_94" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a17</text>
     </text-prop>
@@ -7532,22 +7532,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_94" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_94" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_94" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_94" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_94" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_94" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a18" restype=":Song" id="obj_95" permissions="res-default">
+  <resource label="SVA_01M_002_a18" restype=":Song" id="song_obj_95" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a18</text>
     </text-prop>
@@ -7613,12 +7613,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_95" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_95" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a19" restype=":Song" id="obj_96" permissions="res-default">
+  <resource label="SVA_01M_002_a19" restype=":Song" id="song_obj_96" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a19</text>
     </text-prop>
@@ -7683,12 +7683,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_96" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_96" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a20" restype=":Song" id="obj_97" permissions="res-default">
+  <resource label="SVA_01M_002_a20" restype=":Song" id="song_obj_97" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a20</text>
     </text-prop>
@@ -7760,22 +7760,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_97" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_97" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_97" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_97" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="obj_97" permissions="res-default">
+  <resource label="USA;Schweiz;Zürich" restype=":InterpretIn" id="int_obj_97" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a21" restype=":Song" id="obj_98" permissions="res-default">
+  <resource label="SVA_01M_002_a21" restype=":Song" id="song_obj_98" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a21</text>
     </text-prop>
@@ -7831,12 +7831,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_98" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_98" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a22" restype=":Song" id="obj_99" permissions="res-default">
+  <resource label="SVA_01M_002_a22" restype=":Song" id="song_obj_99" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a22</text>
     </text-prop>
@@ -7891,12 +7891,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_99" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_99" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a23" restype=":Song" id="obj_100" permissions="res-default">
+  <resource label="SVA_01M_002_a23" restype=":Song" id="song_obj_100" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a23</text>
     </text-prop>
@@ -7960,12 +7960,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_100" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_100" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a24" restype=":Song" id="obj_101" permissions="res-default">
+  <resource label="SVA_01M_002_a24" restype=":Song" id="song_obj_101" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a24</text>
     </text-prop>
@@ -8042,22 +8042,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_101" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_101" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_101" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_101" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_101" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_101" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a25" restype=":Song" id="obj_102" permissions="res-default">
+  <resource label="SVA_01M_002_a25" restype=":Song" id="song_obj_102" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a25</text>
     </text-prop>
@@ -8124,12 +8124,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_102" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_102" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a26" restype=":Song" id="obj_103" permissions="res-default">
+  <resource label="SVA_01M_002_a26" restype=":Song" id="song_obj_103" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a26</text>
     </text-prop>
@@ -8188,12 +8188,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_103" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_103" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a27" restype=":Song" id="obj_104" permissions="res-default">
+  <resource label="SVA_01M_002_a27" restype=":Song" id="song_obj_104" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a27</text>
     </text-prop>
@@ -8259,12 +8259,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_104" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_104" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a28" restype=":Song" id="obj_105" permissions="res-default">
+  <resource label="SVA_01M_002_a28" restype=":Song" id="song_obj_105" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a28</text>
     </text-prop>
@@ -8326,12 +8326,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="obj_105" permissions="res-default">
+  <resource label="USA;Minnesota;Minneapolis" restype=":InterpretIn" id="int_obj_105" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a29" restype=":Song" id="obj_106" permissions="res-default">
+  <resource label="SVA_01M_002_a29" restype=":Song" id="song_obj_106" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a29</text>
     </text-prop>
@@ -8390,17 +8390,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":KomponistIn" id="obj_106" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":KomponistIn" id="comp_obj_106" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_106" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_106" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a30" restype=":Song" id="obj_107" permissions="res-default">
+  <resource label="SVA_01M_002_a30" restype=":Song" id="song_obj_107" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a30</text>
     </text-prop>
@@ -8462,12 +8462,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_107" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_107" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a31" restype=":Song" id="obj_108" permissions="res-default">
+  <resource label="SVA_01M_002_a31" restype=":Song" id="song_obj_108" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a31</text>
     </text-prop>
@@ -8529,12 +8529,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_108" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_108" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a32" restype=":Song" id="obj_109" permissions="res-default">
+  <resource label="SVA_01M_002_a32" restype=":Song" id="song_obj_109" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a32</text>
     </text-prop>
@@ -8602,12 +8602,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_109" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_109" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_a33" restype=":Song" id="obj_110" permissions="res-default">
+  <resource label="SVA_01M_002_a33" restype=":Song" id="song_obj_110" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_a33</text>
     </text-prop>
@@ -8669,12 +8669,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_110" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_110" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b1" restype=":Song" id="obj_111" permissions="res-default">
+  <resource label="SVA_01M_002_b1" restype=":Song" id="song_obj_111" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b1</text>
     </text-prop>
@@ -8736,12 +8736,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="obj_111" permissions="res-default">
+  <resource label="Schweiz;Zürich" restype=":InterpretIn" id="int_obj_111" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b2" restype=":Song" id="obj_112" permissions="res-default">
+  <resource label="SVA_01M_002_b2" restype=":Song" id="song_obj_112" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b2</text>
     </text-prop>
@@ -8808,17 +8808,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_112" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_112" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_112" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_112" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b3" restype=":Song" id="obj_113" permissions="res-default">
+  <resource label="SVA_01M_002_b3" restype=":Song" id="song_obj_113" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b3</text>
     </text-prop>
@@ -8892,22 +8892,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_113" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_113" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_113" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_113" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_113" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_113" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b4" restype=":Song" id="obj_114" permissions="res-default">
+  <resource label="SVA_01M_002_b4" restype=":Song" id="song_obj_114" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b4</text>
     </text-prop>
@@ -8974,17 +8974,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_114" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_114" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_114" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_114" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b5" restype=":Song" id="obj_115" permissions="res-default">
+  <resource label="SVA_01M_002_b5" restype=":Song" id="song_obj_115" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b5</text>
     </text-prop>
@@ -9052,12 +9052,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_115" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_115" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b6" restype=":Song" id="obj_116" permissions="res-default">
+  <resource label="SVA_01M_002_b6" restype=":Song" id="song_obj_116" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b6</text>
     </text-prop>
@@ -9121,17 +9121,17 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_116" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_116" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Frankreich;Paris" restype=":InterpretIn" id="obj_116" permissions="res-default">
+  <resource label="Frankreich;Paris" restype=":InterpretIn" id="int_obj_116" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Frankreich;Paris</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b7" restype=":Song" id="obj_117" permissions="res-default">
+  <resource label="SVA_01M_002_b7" restype=":Song" id="song_obj_117" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b7</text>
     </text-prop>
@@ -9196,12 +9196,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;England;Zürich;Erlenbach" restype=":InterpretIn" id="obj_117" permissions="res-default">
+  <resource label="UK;England;Zürich;Erlenbach" restype=":InterpretIn" id="int_obj_117" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;England;Zürich;Erlenbach</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b8" restype=":Song" id="obj_118" permissions="res-default">
+  <resource label="SVA_01M_002_b8" restype=":Song" id="song_obj_118" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b8</text>
     </text-prop>
@@ -9266,12 +9266,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="UK;England;Zürich;Erlenbach" restype=":InterpretIn" id="obj_118" permissions="res-default">
+  <resource label="UK;England;Zürich;Erlenbach" restype=":InterpretIn" id="int_obj_118" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">UK;England;Zürich;Erlenbach</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b9" restype=":Song" id="obj_119" permissions="res-default">
+  <resource label="SVA_01M_002_b9" restype=":Song" id="song_obj_119" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b9</text>
     </text-prop>
@@ -9326,12 +9326,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_119" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_119" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b10" restype=":Song" id="obj_120" permissions="res-default">
+  <resource label="SVA_01M_002_b10" restype=":Song" id="song_obj_120" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b10</text>
     </text-prop>
@@ -9408,22 +9408,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_120" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_120" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_120" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_120" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_120" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_120" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b11" restype=":Song" id="obj_121" permissions="res-default">
+  <resource label="SVA_01M_002_b11" restype=":Song" id="song_obj_121" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b11</text>
     </text-prop>
@@ -9493,22 +9493,22 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":KomponistIn" id="obj_121" permissions="res-default">
+  <resource label="USA" restype=":KomponistIn" id="comp_obj_121" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="USA" restype=":TexterIn" id="obj_121" permissions="res-default">
+  <resource label="USA" restype=":TexterIn" id="txt_obj_121" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_121" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_121" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b12" restype=":Song" id="obj_122" permissions="res-default">
+  <resource label="SVA_01M_002_b12" restype=":Song" id="song_obj_122" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b12</text>
     </text-prop>
@@ -9573,12 +9573,12 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Bern" restype=":InterpretIn" id="obj_122" permissions="res-default">
+  <resource label="Schweiz;Bern" restype=":InterpretIn" id="int_obj_122" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
   </resource>
-  <resource label="SVA_01M_002_b13" restype=":Song" id="obj_123" permissions="res-default">
+  <resource label="SVA_01M_002_b13" restype=":Song" id="song_obj_123" permissions="res-default">
     <text-prop name=":hasIdentifier">
       <text permissions="prop-default" encoding="utf8">SVA_01M_002_b13</text>
     </text-prop>
@@ -9635,7 +9635,7 @@
       <text permissions="prop-default" encoding="utf8">27.05.2020</text>
     </text-prop>
   </resource>
-  <resource label="Schweiz;Zürich;Thalwil;Hinwil" restype=":InterpretIn" id="obj_123" permissions="res-default">
+  <resource label="Schweiz;Zürich;Thalwil;Hinwil" restype=":InterpretIn" id="int_obj_123" permissions="res-default">
     <text-prop name=":hasPointOfOrigin">
       <text permissions="prop-default" encoding="utf8">Schweiz;Zürich;Thalwil;Hinwil</text>
     </text-prop>
