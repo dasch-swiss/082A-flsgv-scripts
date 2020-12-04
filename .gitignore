@@ -1,2 +1,7 @@
 /venv/
 /.idea
+/.DS_Store
+/data/.DS_Store
+/.vscode
+/new_testdata.csv
+/lists.json

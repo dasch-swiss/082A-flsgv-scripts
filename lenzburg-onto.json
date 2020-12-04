@@ -16,31 +16,31 @@
       "labels": { "de": "Instrumente" },
       "nodes": [
         {
-         "name": "autoharp",
+         "name": "Autoharp",
          "labels": { "de": "Autoharp" }
         },
         {
-          "name": "banjo",
+          "name": "Banjo",
           "labels": { "de": "Banjo" }
         },
         {
-          "name": "bass",
+          "name": "Bass",
           "labels": { "de": "Bass" }
         },
         {
-          "name": "bassblockflöte",
+          "name": "Bassblockflöte",
           "labels": { "de": "Bassblockflöte" }
         },
         {
-          "name": "chor",
+          "name": "Chor",
           "labels": { "de": "Chor" }
         },
         {
-          "name": "dudelsack",
+          "name": "Dudelsack",
           "labels": { "de": "Dudelsack" }
         },
         {
-          "name": "e-Bass",
+          "name": "E-Bass",
           "labels": { "de": "E-Bass" }
         },
         {
