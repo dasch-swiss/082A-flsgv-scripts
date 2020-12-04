@@ -175,13 +175,13 @@ def main():
             song.append(make_text_prop(":hasTitle", row['Titel']))
 
         if pd.notna(row['KomponistIn']):
-            song.append(make_text_prop(":hasComposer", row['KomponistIn']))
+            song.append(make_resptr_prop(":hasComposer", "comp_obj_" + str(index)))
 
         if pd.notna(row['TexterIn']):
-            song.append(make_text_prop(":hasSongwriter", row['TexterIn']))
+            song.append(make_resptr_prop(":hasSongwriter", "txt_obj_" + str(index)))
 
         if pd.notna(row['InterpretIn']):
-            song.append(make_text_prop(":hasInterpreter", row['InterpretIn']))
+            song.append(make_resptr_prop(":hasInterpreter", "int_obj_" + str(index)))
 
         if pd.notna(row['Dauer [min:sec]']):
             song.append(make_text_prop(":hasDuration", row['Dauer [min:sec]']))
@@ -248,19 +248,31 @@ def main():
 
         root.append(song)
 
-        if pd.notna(row['Herkunftsort KomponistIn']):
-            composer = make_resource(row['Herkunftsort KomponistIn'], ":Composer", "comp_obj_" + str(index), "res-default")
-            composer.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort KomponistIn']))
+        if pd.notna(row['KomponistIn']):
+            composer = make_resource(row['KomponistIn'], ":Composer", "comp_obj_" + str(index), "res-default")
+            composer.append(make_text_prop(":hasName", row['KomponistIn']))
+
+            if pd.notna(row['Herkunftsort KomponistIn']):
+                composer.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort KomponistIn']))
+
             root.append(composer)
 
-        if pd.notna(row['Herkunftsort TexterIn']):
-            songwriter = make_resource(row['Herkunftsort TexterIn'], ":Songwriter", "txt_obj_" + str(index), "res-default")
-            songwriter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort TexterIn']))
+        if pd.notna(row['TexterIn']):
+            songwriter = make_resource(row['TexterIn'], ":Songwriter", "txt_obj_" + str(index), "res-default")
+            songwriter.append(make_text_prop(":hasName", row['TexterIn']))
+
+            if pd.notna(row['Herkunftsort TexterIn']):
+                songwriter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort TexterIn']))
+
             root.append(songwriter)
 
-        if pd.notna(row['Herkunftsort InterpretIn']):
-            interpreter = make_resource(row['Herkunftsort InterpretIn'], ":Interpreter", "int_obj_" + str(index), "res-default")
-            interpreter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort InterpretIn']))
+        if pd.notna(row['InterpretIn']):
+            interpreter = make_resource(row['InterpretIn'], ":Interpreter", "int_obj_" + str(index), "res-default")
+            interpreter.append(make_text_prop(":hasName", row['InterpretIn']))
+
+            if pd.notna(row['Herkunftsort InterpretIn']):
+                interpreter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort InterpretIn']))
+
             root.append(interpreter)
 
     # loop end

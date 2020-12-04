@@ -177,7 +177,7 @@
            "gui_attributes": {
               "maxlength": "128",
               "size": 32
-          }
+           }
         },
         {
            "name": "hasTitle",
@@ -187,37 +187,38 @@
            "gui_attributes": {
               "maxlength": "128",
               "size": 32
-          }
+           }
         },
-        {
+          {
           "name": "hasComposer",
-          "object": "TextValue",
-          "labels": "KomponistIn",
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
+          "super": ["hasLinkTo"],
+          "object": ":Composer",
+          "labels": {"de": "hat KomponistIn"},
+          "gui_element": "Searchbox"
         },
         {
           "name": "hasSongwriter",
-          "object": "TextValue",
-          "labels": "TexterIn",
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
+          "super": ["hasLinkTo"],
+          "object": ":Songwriter",
+          "labels": {"de": "hat TexterIn"},
+          "gui_element": "Searchbox"
         },
         {
           "name": "hasInterpreter",
-          "object": "TextValue",
-          "labels": "InterpretIn",
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
+          "super": ["hasLinkTo"],
+          "object": ":Interpreter",
+          "labels": {"de": "hat InterpretIn"},
+          "gui_element": "Searchbox"
+        },
+       {
+           "name": "hasName",
+           "object": "TextValue",
+           "labels": "Name",
+           "gui_element": "SimpleText",
+           "gui_attributes": {
+              "maxlength": "128",
+              "size": 32
+           }
         },
         {
           "name": "hasDuration",
@@ -428,10 +429,9 @@
         {
           "name": "hasPointOfOrigin",
           "object": "TextValue",
-          "labels": "Herkunftsort",
+          "labels": {"de": "Herkunftsort"},
           "gui_element": "SimpleText",
-          "gui_attributes": {
-          }
+          "gui_attributes": {}
         }
       ],
         "resources": [
@@ -557,6 +557,10 @@
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
+              {
+                  "propname": ":hasName",
+                  "cardinality": "1"
+               },
                {
                   "propname": ":hasPointOfOrigin",
                   "cardinality": "0-n"
@@ -569,7 +573,11 @@
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
-               {
+              {
+                  "propname": ":hasName",
+                  "cardinality": "1"
+               },
+              {
                   "propname": ":hasPointOfOrigin",
                   "cardinality": "0-n"
                }
@@ -581,6 +589,10 @@
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
+              {
+                  "propname": ":hasName",
+                  "cardinality": "1"
+               },
                {
                   "propname": ":hasPointOfOrigin",
                   "cardinality": "0-n"
