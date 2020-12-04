@@ -281,7 +281,7 @@
         },
         {
           "name": "hasFirstRecordingLocation",
-          "object": "GeonameValue",
+          "object": "TextValue",
           "labels": "1. Aufnahmeort",
           "gui_element": "SimpleText",
           "gui_attributes": {
@@ -289,7 +289,7 @@
         },
         {
           "name": "hasPointOfOriginComposition",
-          "object": "GeonameValue",
+          "object": "TextValue",
           "labels": "2. Herkunftort Komposition",
           "gui_element": "SimpleText",
           "gui_attributes": {
@@ -297,7 +297,7 @@
         },
         {
           "name": "hasRecordDateDisplay",
-          "object": "DateValue",
+          "object": "TextValue",
           "labels": "Aufnahmedatum: Anzeige",
           "gui_element": "SimpleText",
           "gui_attributes": {
@@ -307,7 +307,7 @@
         },
         {
           "name": "hasCompositionDateDisplay",
-          "object": "DateValue",
+          "object": "TextValue",
           "labels": "Kompositionsdatum: Anzeige",
           "gui_element": "SimpleText",
           "gui_attributes": {
@@ -417,7 +417,7 @@
         },
         {
           "name": "hasEntryDate",
-          "object": "DateValue",
+          "object": "TextValue",
           "labels": "Erfassungsdatum",
           "gui_element": "SimpleText",
           "gui_attributes": {
@@ -427,7 +427,7 @@
         },
         {
           "name": "hasPointOfOrigin",
-          "object": "GeonameValue",
+          "object": "TextValue",
           "labels": "Herkunftsort",
           "gui_element": "SimpleText",
           "gui_attributes": {
