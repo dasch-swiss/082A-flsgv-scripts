@@ -249,17 +249,17 @@ def main():
         root.append(song)
 
         if pd.notna(row['Herkunftsort KomponistIn']):
-            composer = make_resource(row['Herkunftsort KomponistIn'], ":KomponistIn", "comp_obj_" + str(index), "res-default")
+            composer = make_resource(row['Herkunftsort KomponistIn'], ":Composer", "comp_obj_" + str(index), "res-default")
             composer.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort KomponistIn']))
             root.append(composer)
 
         if pd.notna(row['Herkunftsort TexterIn']):
-            songwriter = make_resource(row['Herkunftsort TexterIn'], ":TexterIn", "txt_obj_" + str(index), "res-default")
+            songwriter = make_resource(row['Herkunftsort TexterIn'], ":Songwriter", "txt_obj_" + str(index), "res-default")
             songwriter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort TexterIn']))
             root.append(songwriter)
 
         if pd.notna(row['Herkunftsort InterpretIn']):
-            interpreter = make_resource(row['Herkunftsort InterpretIn'], ":InterpretIn", "int_obj_" + str(index), "res-default")
+            interpreter = make_resource(row['Herkunftsort InterpretIn'], ":Interpreter", "int_obj_" + str(index), "res-default")
             interpreter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort InterpretIn']))
             root.append(interpreter)
 
