@@ -226,10 +226,10 @@ def main():
             song.append(make_text_prop(":hasComment", row['Kommentar']))
 
         if pd.notna(row['Objektart']):
-            song.append(make_list_prop("music genre", ":hasMusicGenre", [row['Objektart']]))
+            song.append(make_list_prop("musicgenre", ":hasMusicGenre", [row['Objektart']]))
 
         if pd.notna(row['Originalträger']):
-            song.append(make_list_prop("carrier type", ":hasCarrierType", [row['Originalträger']]))
+            song.append(make_list_prop("carriertype", ":hasCarrierType", [row['Originalträger']]))
 
         if pd.notna(row['Ist ein Teil von']):
             song.append(make_text_prop(":isPartOf", row['Ist ein Teil von']))

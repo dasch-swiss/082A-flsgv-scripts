@@ -126,7 +126,7 @@
       ]
     },
     {  
-       "name": "music genre",
+       "name": "musicgenre",
        "labels": { "de": "Objektart" },
        "nodes": [
           {
@@ -140,7 +140,7 @@
         ]
       }, 
       {
-        "name": "carrier type",
+        "name": "carriertype",
         "labels": { "de": "Originalträger" },
         "nodes": [
             {

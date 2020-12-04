@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" shortcode="0000" default-ontology="flsgv">
+<knora xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" shortcode="082A" default-ontology="flsgv">
   <permissions id="res-default">
     <allow group="UnknownUser">RV</allow>
     <allow group="KnownUser">V</allow>
@@ -60,10 +60,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -133,10 +133,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -207,10 +207,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -289,10 +289,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -373,10 +373,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -449,10 +449,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -534,10 +534,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -600,10 +600,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -682,10 +682,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -764,10 +764,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -843,10 +843,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -927,10 +927,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1012,10 +1012,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1097,10 +1097,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1187,10 +1187,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1268,10 +1268,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1329,10 +1329,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1393,10 +1393,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1465,10 +1465,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1534,10 +1534,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1611,10 +1611,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1691,10 +1691,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1768,10 +1768,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1855,10 +1855,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1942,10 +1942,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2023,10 +2023,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2100,10 +2100,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2187,10 +2187,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2272,10 +2272,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2357,10 +2357,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2442,10 +2442,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2530,10 +2530,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2618,10 +2618,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2702,10 +2702,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2773,10 +2773,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2851,10 +2851,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2938,10 +2938,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3023,10 +3023,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3104,10 +3104,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3181,10 +3181,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3262,10 +3262,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3339,10 +3339,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3426,10 +3426,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3513,10 +3513,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3600,10 +3600,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3687,10 +3687,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3763,10 +3763,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3835,10 +3835,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3910,10 +3910,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3983,10 +3983,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4057,10 +4057,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4131,10 +4131,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4205,10 +4205,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4285,10 +4285,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4375,10 +4375,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4462,10 +4462,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4540,10 +4540,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4613,10 +4613,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4686,10 +4686,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4754,10 +4754,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4826,10 +4826,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4903,10 +4903,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4990,10 +4990,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5077,10 +5077,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5164,10 +5164,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5251,10 +5251,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5322,10 +5322,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5402,10 +5402,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5476,10 +5476,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5558,10 +5558,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5632,10 +5632,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5714,10 +5714,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5801,10 +5801,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5888,10 +5888,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5975,10 +5975,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6065,10 +6065,10 @@
     <text-prop name=":hasComment">
       <text permissions="prop-default" encoding="utf8">Übersetzung aus dem Englischen ins Berndeutsche</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6152,10 +6152,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6231,10 +6231,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6315,10 +6315,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6391,10 +6391,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6473,10 +6473,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6560,10 +6560,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6647,10 +6647,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6724,10 +6724,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6800,10 +6800,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6865,10 +6865,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6933,10 +6933,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7002,10 +7002,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7075,10 +7075,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7140,10 +7140,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7213,10 +7213,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7284,10 +7284,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7349,10 +7349,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7426,10 +7426,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7513,10 +7513,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7594,10 +7594,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7664,10 +7664,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7741,10 +7741,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7812,10 +7812,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7872,10 +7872,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7941,10 +7941,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8023,10 +8023,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8105,10 +8105,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8169,10 +8169,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8240,10 +8240,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8307,10 +8307,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8371,10 +8371,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8443,10 +8443,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8510,10 +8510,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8583,10 +8583,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8650,10 +8650,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8717,10 +8717,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8789,10 +8789,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8873,10 +8873,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8955,10 +8955,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9033,10 +9033,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9102,10 +9102,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9177,10 +9177,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Dick Watts;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9247,10 +9247,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Dick Watts;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9307,10 +9307,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9389,10 +9389,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9474,10 +9474,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9554,10 +9554,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9616,10 +9616,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop list="music genre" name=":hasMusicGenre">
+    <list-prop list="musicgenre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop list="carrier type" name=":hasCarrierType">
+    <list-prop list="carriertype" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
