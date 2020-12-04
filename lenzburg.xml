@@ -53,17 +53,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Dudelsack</list>
       <list permissions="prop-default">Trommel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -124,7 +124,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Geige</list>
@@ -133,10 +133,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -197,7 +197,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
       <list permissions="prop-default">Geige</list>
@@ -207,10 +207,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -280,7 +280,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1924.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Banjo</list>
@@ -289,10 +289,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -363,7 +363,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
@@ -373,10 +373,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -440,7 +440,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
@@ -449,10 +449,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -524,7 +524,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1928.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Sprecher</list>
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -534,10 +534,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -592,7 +592,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Fidel</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -600,10 +600,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -673,7 +673,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1928.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Fidel</list>
       <list permissions="prop-default">Banjo</list>
@@ -682,10 +682,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -756,7 +756,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Bassblockflöte</list>
@@ -764,10 +764,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -834,7 +834,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1935.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Banjo</list>
@@ -843,10 +843,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -920,17 +920,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1001,7 +1001,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Sitar</list>
       <list permissions="prop-default">Tabla</list>
@@ -1012,10 +1012,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1089,7 +1089,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Flöte</list>
       <list permissions="prop-default">Gitarre</list>
@@ -1097,10 +1097,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1180,17 +1180,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1927.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1261,17 +1261,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1323,16 +1323,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1387,16 +1387,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1459,16 +1459,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1528,16 +1528,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1603,7 +1603,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1921.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Kazoo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -1611,10 +1611,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Guy Drossaert;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1683,7 +1683,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Kazoo</list>
@@ -1691,10 +1691,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1761,17 +1761,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1848,17 +1848,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -1935,17 +1935,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2016,17 +2016,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2093,17 +2093,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2180,17 +2180,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2264,7 +2264,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mundharmonika</list>
@@ -2272,10 +2272,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2349,7 +2349,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mundharmonika</list>
@@ -2357,10 +2357,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2434,7 +2434,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mundharmonika</list>
@@ -2442,10 +2442,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2522,7 +2522,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mundharmonika</list>
@@ -2530,10 +2530,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2610,7 +2610,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mundharmonika</list>
@@ -2618,10 +2618,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2695,17 +2695,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1850.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2766,17 +2766,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2843,7 +2843,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Kazoo</list>
@@ -2851,10 +2851,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -2931,17 +2931,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3016,17 +3016,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1971.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3097,17 +3097,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3174,17 +3174,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3255,17 +3255,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3332,17 +3332,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3419,17 +3419,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3506,17 +3506,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3593,17 +3593,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3680,17 +3680,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1940.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3754,7 +3754,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
       <list permissions="prop-default">Banjo</list>
@@ -3763,10 +3763,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3826,7 +3826,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mandoline</list>
@@ -3835,10 +3835,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3902,7 +3902,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Mandoline</list>
@@ -3910,10 +3910,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -3974,7 +3974,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3983,10 +3983,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4050,17 +4050,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4124,17 +4124,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4198,17 +4198,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4278,17 +4278,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1959.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4368,17 +4368,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1961.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4455,17 +4455,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4533,17 +4533,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4604,7 +4604,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Mandoline</list>
@@ -4613,10 +4613,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4677,7 +4677,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Mandoline</list>
@@ -4686,10 +4686,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4747,17 +4747,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4818,7 +4818,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Perkussion</list>
@@ -4826,10 +4826,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4896,17 +4896,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -4983,17 +4983,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5070,17 +5070,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5157,17 +5157,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5244,17 +5244,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Piano</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5316,16 +5316,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5395,17 +5395,17 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1924.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5470,16 +5470,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5551,17 +5551,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5626,16 +5626,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5707,17 +5707,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5794,17 +5794,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5881,17 +5881,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -5968,17 +5968,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6055,7 +6055,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
@@ -6065,10 +6065,10 @@
     <text-prop name=":hasComment">
       <text permissions="prop-default" encoding="utf8">Übersetzung aus dem Englischen ins Berndeutsche</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6145,17 +6145,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6223,7 +6223,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -6231,10 +6231,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6306,7 +6306,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -6315,10 +6315,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6383,7 +6383,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -6391,10 +6391,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6466,17 +6466,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6553,17 +6553,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6640,17 +6640,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6718,16 +6718,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6793,17 +6793,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6855,7 +6855,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Mandoline</list>
@@ -6865,10 +6865,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6923,7 +6923,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Maultrommel</list>
       <list permissions="prop-default">Mandoline</list>
@@ -6933,10 +6933,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -6994,7 +6994,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Bass</list>
@@ -7002,10 +7002,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7065,7 +7065,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
@@ -7075,10 +7075,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7133,17 +7133,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7204,7 +7204,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Mandoline</list>
@@ -7213,10 +7213,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7274,7 +7274,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Mandoline</list>
@@ -7284,10 +7284,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7342,17 +7342,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7419,17 +7419,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7506,17 +7506,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7587,17 +7587,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7658,16 +7658,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Chor</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7734,17 +7734,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7803,7 +7803,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -7812,10 +7812,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7864,7 +7864,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -7872,10 +7872,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -7933,7 +7933,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -7941,10 +7941,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8014,7 +8014,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1911.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8023,10 +8023,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8097,7 +8097,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Waschbrett</list>
@@ -8105,10 +8105,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8160,7 +8160,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
@@ -8169,10 +8169,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8233,17 +8233,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Maultrommel</list>
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8298,7 +8298,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Löffel</list>
@@ -8307,10 +8307,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8365,16 +8365,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8434,7 +8434,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Geige</list>
@@ -8443,10 +8443,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8501,7 +8501,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Querflöte</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">E-Bass</list>
@@ -8510,10 +8510,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8574,7 +8574,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Geige</list>
@@ -8583,10 +8583,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8641,7 +8641,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">E-Bass</list>
@@ -8650,10 +8650,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8708,7 +8708,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">E-Bass</list>
@@ -8717,10 +8717,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8781,7 +8781,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1950.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8789,10 +8789,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8864,7 +8864,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1968.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Banjo</list>
@@ -8873,10 +8873,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -8947,7 +8947,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1954.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8955,10 +8955,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9024,7 +9024,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Banjo</list>
@@ -9033,10 +9033,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9094,7 +9094,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9102,10 +9102,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9171,16 +9171,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Dick Watts;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9241,16 +9241,16 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Dick Watts;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9299,7 +9299,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9307,10 +9307,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9380,7 +9380,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1918.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
@@ -9389,10 +9389,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9466,7 +9466,7 @@
     <text-prop name=":hasCompositionDateDisplay">
       <text permissions="prop-default" encoding="utf8">1876.0</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9474,10 +9474,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9545,7 +9545,7 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
@@ -9554,10 +9554,10 @@
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Lied (Musik+Text)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
@@ -9609,17 +9609,17 @@
     <text-prop name=":hasRecordDateDisplay">
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
-    <list-prop name=":hasInstruments">
+    <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Dudelsack</list>
       <list permissions="prop-default">Trommel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>
     </text-prop>
-    <list-prop name=":hasMusicGenre">
+    <list-prop list="music genre" name=":hasMusicGenre">
       <list permissions="prop-default">Stück (nur Musik)</list>
     </list-prop>
-    <list-prop name=":hasCarrierType">
+    <list-prop list="carrier type" name=":hasCarrierType">
       <list permissions="prop-default">Magnettonband</list>
     </list-prop>
     <text-prop name=":isPartOf">
