@@ -44,83 +44,83 @@
           "labels": { "de": "E-Bass" }
         },
         {
-          "name": "fidel",
+          "name": "Fidel",
           "labels": { "de": "Fidel" }
         },
         {
-          "name": "flöte",
+          "name": "Flöte",
           "labels": { "de": "Flöte" }
         },
         {
-          "name": "geige",
+          "name": "Geige",
           "labels": { "de": "Geige" }
         },
         {
-          "name": "gesang",
+          "name": "Gesang",
           "labels": { "de": "Gesang" }
         },
         {
-          "name": "gitarre",
+          "name": "Gitarre",
           "labels": { "de": "Gitarre" }
         },
         {
-          "name": "kazoo",
+          "name": "Kazoo",
           "labels": { "de": "Kazoo" }
         },
         {
-          "name": "löffel",
+          "name": "Löffel",
           "labels": { "de": "Löffel" }
         },
         {
-          "name": "mandoline",
+          "name": "Mandoline",
           "labels": { "de": "Mandoline" }
         },
         {
-          "name": "maultrommel",
+          "name": "Maultrommel",
           "labels": { "de": "Maultrommel" }
         },
         {
-          "name": "mundharmonika",
+          "name": "Mundharmonika",
           "labels": { "de": "Mundharmonika" }
         },
         {
-          "name": "perkussion",
+          "name": "Perkussion",
           "labels": { "de": "Perkussion" }
         },
         {
-          "name": "piano",
+          "name": "Piano",
           "labels": { "de": "Piano" }
         },
         {
-          "name": "querflöte",
+          "name": "Querflöte",
           "labels": { "de": "Querflöte" }
         },
         {
-          "name": "sitar",
+          "name": "Sitar",
           "labels": { "de": "Sitar" }
         },
         {
-          "name": "sprecher",
+          "name": "Sprecher",
           "labels": { "de": "Sprecher" }
         },
         {
-          "name": "tabla",
+          "name": "Tabla",
           "labels": { "de": "Tabla" }
         },
         {
-          "name": "tin Whistle",
+          "name": "Tin Whistle",
           "labels": { "de": "Tin Whistle" }
         },
         {
-          "name": "trommel",
+          "name": "Trommel",
           "labels": { "de": "Trommel" }
         },
         {
-          "name": "waschbrett",
+          "name": "Waschbrett",
           "labels": { "de": "Waschbrett" }
         },
         {
-          "name": "zuberbass",
+          "name": "Zuberbass",
           "labels": { "de": "Zuberbass" }
         }
       ]
@@ -130,11 +130,11 @@
        "labels": { "de": "Objektart" },
        "nodes": [
           {
-             "name": "stück (nur Musik)",
+             "name": "Stück (nur Musik)",
              "labels": { "de": "Stück (nur Musik)" }
           },
           {
-            "name": "lied (Musik+Text)",
+            "name": "Lied (Musik+Text)",
             "labels": { "de": "Lied (Musik+Text)" }
           }
         ]
@@ -144,11 +144,11 @@
         "labels": { "de": "Originalträger" },
         "nodes": [
             {
-               "name": "magnettonband",
+               "name": "Magnettonband",
                "labels": { "de": "Magnettonband" }
             },
             {
-              "name": "musikkassette",
+              "name": "Musikkassette",
               "labels": { "de": "Musikkassette" }
             }
           ]

@@ -162,24 +162,103 @@ def main():
 
     for index, row in lenzburg.iterrows():
         song = make_resource(row['Signatur'], ":Song", "obj_"+str(index), "res-default")
-        song.append(make_text_prop(":hasSignature", row['Signatur']))
-        song.append(make_boolean_prop(":hasBoolean", "true"))
+        if pd.notna(row['Signatur']):
+            song.append(make_text_prop(":hasIdentifier", row['Signatur']))
+
+        if pd.notna(row['Incipit']):
+            song.append(make_text_prop(":hasIncipit", row['Incipit']))
+
+        if pd.notna(row['Titel']):
+            song.append(make_text_prop(":hasTitle", row['Titel']))
+
+        if pd.notna(row['KomponistIn']):
+            song.append(make_text_prop(":hasComposer", row['KomponistIn']))
+
+        if pd.notna(row['TexterIn']):
+            song.append(make_text_prop(":hasSongwriter", row['TexterIn']))
+
+        if pd.notna(row['InterpretIn']):
+            song.append(make_text_prop(":hasInterpreter", row['InterpretIn']))
+
+        if pd.notna(row['Dauer [min:sec]']):
+            song.append(make_text_prop(":hasDuration", row['Dauer [min:sec]']))
+
+        if pd.notna(row['Liedarchiv-Nummer']):
+            song.append(make_text_prop(":hasSongArchiveNum", str(row['Liedarchiv-Nummer'])))
+
+        if pd.notna(row['Alte Signatur Tonband']):
+            song.append(make_text_prop(":hasOldIdentifierTape", row['Alte Signatur Tonband']))
+
+        if pd.notna(row['Seite']):
+            song.append(make_text_prop(":hasPage", row['Seite']))
+
+        if pd.notna(row['Liednr.']):
+            song.append(make_text_prop(":hasSongNum", str(row['Liednr.'])))
+
+        if pd.notna(row['Alte Signatur Track']):
+            song.append(make_text_prop(":hasOldSignatureTrack", row['Alte Signatur Track']))
+
+        if pd.notna(row['1. Aufnahmeort']):
+            song.append(make_text_prop(":hasFirstRecordingLocation", row['1. Aufnahmeort']))
+
+        if pd.notna(row['2. Herkunftort Komposition']):
+            song.append(make_text_prop(":hasPointOfOriginComposition", row['2. Herkunftort Komposition']))
+
+        if pd.notna(row['Aufnahmedatum: Anzeige']):
+            song.append(make_text_prop(":hasRecordDateDisplay", row['Aufnahmedatum: Anzeige']))
+
+        if pd.notna(row['Kompositionsdatum: Anzeige']):
+            song.append(make_text_prop(":hasCompositionDateDisplay", str(row['Kompositionsdatum: Anzeige'])))
+
+        if pd.notna(row['Instrumente']):
+            song.append(make_list_prop(":hasInstruments", row['Instrumente']))
+
+        if pd.notna(row['Personen/Institutionen']):
+            song.append(make_text_prop(":hasPersons", row['Personen/Institutionen']))
+
+        if pd.notna(row['Schlagworte']):
+            song.append(make_text_prop(":hasKeywords", row['Schlagworte']))
+
+        if pd.notna(row['Kommentar']):
+            song.append(make_text_prop(":hasComment", row['Kommentar']))
+
+        if pd.notna(row['Objektart']):
+            song.append(make_list_prop(":hasMusicGenre", row['Objektart']))
+
+        if pd.notna(row['Originalträger']):
+            song.append(make_list_prop(":hasCarrierType", row['Originalträger']))
+
+        if pd.notna(row['Ist ein Teil von']):
+            song.append(make_text_prop(":isPartOf", row['Ist ein Teil von']))
+
+        if pd.notna(row['Sammlung']):
+            song.append(make_text_prop(":hasCollection", row['Sammlung']))
+
+        if pd.notna(row['Copyright']):
+            song.append(make_text_prop(":hasCopyright", row['Copyright']))
+
+        if pd.notna(row['Ähnliche Lieder/Stücke']):
+            song.append(make_text_prop(":hasSimilarTracks", row['Ähnliche Lieder/Stücke']))
+
+        if pd.notna(row['Erfassungsdatum']):
+            song.append(make_text_prop(":hasEntryDate", row['Erfassungsdatum']))
+
         root.append(song)
 
-        composer = make_resource(row['Signatur'], ":Komponist", "obj_" + str(index), "res-default")
-        composer.append(make_text_prop(":hasSignature", row['Signatur']))
-        composer.append(make_boolean_prop(":hasBoolean", "true"))
-        root.append(composer)
+        if pd.notna(row['Herkunftsort KomponistIn']):
+            composer = make_resource(row['Herkunftsort KomponistIn'], ":KomponistIn", "obj_" + str(index), "res-default")
+            composer.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort KomponistIn']))
+            root.append(composer)
 
-        songwriter = make_resource(row['Signatur'], ":Texter", "obj_" + str(index), "res-default")
-        songwriter.append(make_text_prop(":hasSignature", row['Signatur']))
-        songwriter.append(make_boolean_prop(":hasBoolean", "true"))
-        root.append(songwriter)
+        if pd.notna(row['Herkunftsort TexterIn']):
+            songwriter = make_resource(row['Herkunftsort TexterIn'], ":TexterIn", "obj_" + str(index), "res-default")
+            songwriter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort TexterIn']))
+            root.append(songwriter)
 
-        interpreter = make_resource(row['Signatur'], ":Interpret", "obj_" + str(index), "res-default")
-        interpreter.append(make_text_prop(":hasSignature", row['Signatur']))
-        interpreter.append(make_boolean_prop(":hasBoolean", "true"))
-        root.append(interpreter)
+        if pd.notna(row['Herkunftsort InterpretIn']):
+            interpreter = make_resource(row['Herkunftsort InterpretIn'], ":InterpretIn", "obj_" + str(index), "res-default")
+            interpreter.append(make_text_prop(":hasPointOfOrigin", row['Herkunftsort InterpretIn']))
+            root.append(interpreter)
 
     # loop end
 
