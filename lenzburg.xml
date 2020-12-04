@@ -54,7 +54,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Dudelsack;Trommel</list>
+      <list permissions="prop-default">Dudelsack</list>
+      <list permissions="prop-default">Trommel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>
@@ -124,7 +125,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Geige;Zuberbass</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Zuberbass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -194,7 +198,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Chor;Geige;Banjo;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Chor</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -273,7 +281,10 @@
       <text permissions="prop-default" encoding="utf8">1924.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Banjo;Löffel</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Löffel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -353,7 +364,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Geige;Gitarre;Zuberbass;Kazoo</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Zuberbass</list>
+      <list permissions="prop-default">Kazoo</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -426,7 +441,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Geige;Gitarre;Zuberbass</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Zuberbass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -507,7 +525,11 @@
       <text permissions="prop-default" encoding="utf8">1928.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Sprecher;Gesang;Banjo;Gitarre;Zuberbass</list>
+      <list permissions="prop-default">Sprecher</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Zuberbass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -571,7 +593,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Fidel;Banjo;Gitarre</list>
+      <list permissions="prop-default">Fidel</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
@@ -650,7 +674,10 @@
       <text permissions="prop-default" encoding="utf8">1928.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Fidel;Banjo;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Fidel</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
@@ -730,7 +757,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Mandoline;Bassblockflöte</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Bassblockflöte</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
@@ -806,7 +835,10 @@
       <text permissions="prop-default" encoding="utf8">1935.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Banjo;Fidel</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Fidel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Troubadix;Samuel Forrer;Urs Klauser;Peter Maurer;Folkfestival auf der Lenzburg</text>
@@ -889,7 +921,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Folkfestival auf der Lenzburg</text>
@@ -969,7 +1002,12 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Sitar;Tabla;Fidel;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Sitar</list>
+      <list permissions="prop-default">Tabla</list>
+      <list permissions="prop-default">Fidel</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
@@ -1052,7 +1090,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Flöte;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Flöte</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Aleš;Lubos;Folkfestival auf der Lenzburg</text>
@@ -1141,7 +1181,8 @@
       <text permissions="prop-default" encoding="utf8">1927.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Autoharp</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Autoharp</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
@@ -1221,7 +1262,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Autoharp</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Autoharp</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
@@ -1562,7 +1604,9 @@
       <text permissions="prop-default" encoding="utf8">1921.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Autoharp;Kazoo;Gitarre</list>
+      <list permissions="prop-default">Autoharp</list>
+      <list permissions="prop-default">Kazoo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Guy Drossaert;Folkfestival auf der Lenzburg</text>
@@ -1640,7 +1684,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Autoharp;Kazoo</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Autoharp</list>
+      <list permissions="prop-default">Kazoo</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Richard O'Brien;Folkfestival auf der Lenzburg</text>
@@ -1716,7 +1762,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
@@ -1802,7 +1849,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
@@ -1888,7 +1936,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Schmidt;Folkfestival auf der Lenzburg</text>
@@ -1968,7 +2017,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
@@ -2044,7 +2094,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
@@ -2130,7 +2181,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Hopfe u Malz;Folkfestival auf der Lenzburg</text>
@@ -2213,7 +2265,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
@@ -2296,7 +2350,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
@@ -2379,7 +2435,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
@@ -2465,7 +2523,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
@@ -2551,7 +2611,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mundharmonika</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kurt Briefer;Folkfestival auf der Lenzburg</text>
@@ -2634,7 +2696,8 @@
       <text permissions="prop-default" encoding="utf8">1850.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -2704,7 +2767,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -2780,7 +2844,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Kazoo</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Kazoo</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -2866,7 +2932,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -2950,7 +3017,8 @@
       <text permissions="prop-default" encoding="utf8">1971.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Folkfestival auf der Lenzburg</text>
@@ -3030,7 +3098,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -3106,7 +3175,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Silvio Ballinari;Ueli Gubler;Folkfestival auf der Lenzburg</text>
@@ -3186,7 +3256,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3262,7 +3333,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Roland Zbinden;René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3348,7 +3420,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3434,7 +3507,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3520,7 +3594,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3606,7 +3681,8 @@
       <text permissions="prop-default" encoding="utf8">1940.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">René Haueter;Folkfestival auf der Lenzburg</text>
@@ -3679,7 +3755,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Chor;Banjo;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Chor</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
@@ -3748,7 +3827,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Mandoline;Flöte</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Flöte</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
@@ -3821,7 +3903,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gitarre;Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
@@ -3891,7 +3975,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Chor;Gitarre;Mandoline</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Chor</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">George Tempest;Folkfestival auf der Lenzburg</text>
@@ -3964,7 +4051,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
@@ -4037,7 +4125,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
@@ -4110,7 +4199,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Maria Kägi;Fredy Rahm;Folkfestival auf der Lenzburg</text>
@@ -4189,7 +4279,8 @@
       <text permissions="prop-default" encoding="utf8">1959.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
@@ -4278,7 +4369,8 @@
       <text permissions="prop-default" encoding="utf8">1961.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
@@ -4364,7 +4456,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
@@ -4441,7 +4534,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Perry, Hans und Peter;Folkfestival auf der Lenzburg</text>
@@ -4511,7 +4605,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Geige;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
@@ -4581,7 +4678,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Geige;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
@@ -4648,7 +4748,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Chor</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Chor</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
@@ -4718,7 +4819,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Perkussion</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Perkussion</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Fullhouse;Christoph Jäggi;Monika Hilibrand;Hansueli Messmer;Folkfestival auf der Lenzburg</text>
@@ -4794,7 +4897,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
@@ -4880,7 +4984,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
@@ -4966,7 +5071,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
@@ -5052,7 +5158,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Gabriel;Folkfestival auf der Lenzburg</text>
@@ -5138,7 +5245,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Piano</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Piano</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
@@ -5288,7 +5396,8 @@
       <text permissions="prop-default" encoding="utf8">1924.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Piano;Gesang</list>
+      <list permissions="prop-default">Piano</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
@@ -5443,7 +5552,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Piano;Gesang</list>
+      <list permissions="prop-default">Piano</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Chlöisu Friedli;Folkfestival auf der Lenzburg</text>
@@ -5598,7 +5708,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -5684,7 +5795,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -5770,7 +5882,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -5856,7 +5969,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -5942,7 +6056,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -6031,7 +6146,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Urs Hostettler;Folkfestival auf der Lenzburg</text>
@@ -6108,7 +6224,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -6189,7 +6307,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -6263,7 +6384,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -6344,7 +6467,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
@@ -6430,7 +6554,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
@@ -6516,7 +6641,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
@@ -6668,7 +6794,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Martin Diem;Folkfestival auf der Lenzburg</text>
@@ -6729,7 +6856,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Geige;Mandoline;Gitarre;Bass</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -6793,7 +6924,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Maultrommel;Mandoline;Gitarre;Bass</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Maultrommel</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -6860,7 +6995,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Autoharp;Gitarre;Bass</list>
+      <list permissions="prop-default">Autoharp</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -6929,7 +7066,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Mandoline;Gitarre;Bass;Mundharmonika</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
+      <list permissions="prop-default">Mundharmonika</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -6993,7 +7134,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gitarre;Bass</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -7063,7 +7205,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Geige;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -7130,7 +7275,11 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Geige;Mandoline;Gitarre;Bass</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Country Ramblers;Roland Ambühl;Urs von Arx;Tom Matojewsky;Erwin Bucher;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -7194,7 +7343,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
@@ -7270,7 +7420,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
@@ -7356,7 +7507,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
@@ -7436,7 +7588,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Folkfestival auf der Lenzburg</text>
@@ -7582,7 +7735,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel;Folkfestival auf der Lenzburg</text>
@@ -7650,7 +7804,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Banjo;Gitarre;Löffel</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Löffel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -7708,7 +7865,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Geige;Gitarre;Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -7775,7 +7934,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Banjo;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -7854,7 +8015,10 @@
       <text permissions="prop-default" encoding="utf8">1911.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Autoharp;Gitarre;Geige</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Autoharp</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Geige</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -7934,7 +8098,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Geige;Waschbrett</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Waschbrett</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -7995,7 +8161,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Banjo;Geige;Bass</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -8065,7 +8234,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Maultrommel;Gesang</list>
+      <list permissions="prop-default">Maultrommel</list>
+      <list permissions="prop-default">Gesang</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -8129,7 +8299,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Geige;Gitarre;Löffel;Sprecher</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Löffel</list>
+      <list permissions="prop-default">Sprecher</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">The String Band;Folkfestival auf der Lenzburg</text>
@@ -8262,7 +8435,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Geige;E-Bass</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">E-Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
@@ -8326,7 +8502,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Querflöte;Gitarre;E-Bass;Löffel</list>
+      <list permissions="prop-default">Querflöte</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">E-Bass</list>
+      <list permissions="prop-default">Löffel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
@@ -8396,7 +8575,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Geige;E-Bass</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Geige</list>
+      <list permissions="prop-default">E-Bass</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Folkfestival auf der Lenzburg</text>
@@ -8460,7 +8642,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Gitarre;E-Bass;Tin Whistle</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">E-Bass</list>
+      <list permissions="prop-default">Tin Whistle</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -8524,7 +8709,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Gitarre;E-Bass;Tin Whistle</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">E-Bass</list>
+      <list permissions="prop-default">Tin Whistle</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Skibbereen;Erwin Bucher;Roland Ambühl;Ruedi Hoppler;Daniel Perret;Folkfestival auf der Lenzburg</text>
@@ -8594,7 +8782,9 @@
       <text permissions="prop-default" encoding="utf8">1950.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -8675,7 +8865,10 @@
       <text permissions="prop-default" encoding="utf8">1968.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Banjo;Mandoline</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -8755,7 +8948,9 @@
       <text permissions="prop-default" encoding="utf8">1954.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -8830,7 +9025,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Gitarre;Banjo;Mandoline</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -8897,7 +9095,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Mandoline;Banjo;Gitarre</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">15 Strings Band;Hervé de Sainte Foy;Folkfestival auf der Lenzburg</text>
@@ -9100,7 +9300,9 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
@@ -9179,7 +9381,10 @@
       <text permissions="prop-default" encoding="utf8">1918.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Banjo;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
@@ -9262,7 +9467,9 @@
       <text permissions="prop-default" encoding="utf8">1876.0</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Banjo;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
@@ -9339,7 +9546,10 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Gesang;Banjo;Mandoline;Gitarre</list>
+      <list permissions="prop-default">Gesang</list>
+      <list permissions="prop-default">Banjo</list>
+      <list permissions="prop-default">Mandoline</list>
+      <list permissions="prop-default">Gitarre</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Bluegrass Blossoms;Hans Holzherr;Gérard Theiler;Matthias Baumann;Folkfestival auf der Lenzburg</text>
@@ -9400,7 +9610,8 @@
       <text permissions="prop-default" encoding="utf8">02.07.1972</text>
     </text-prop>
     <list-prop name=":hasInstruments">
-      <list permissions="prop-default">Dudelsack;Trommel</list>
+      <list permissions="prop-default">Dudelsack</list>
+      <list permissions="prop-default">Trommel</list>
     </list-prop>
     <text-prop name=":hasPersons">
       <text permissions="prop-default" encoding="utf8">Daniel Perret;Roland Ambühl;Folkfestival auf der Lenzburg</text>

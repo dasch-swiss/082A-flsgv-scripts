@@ -117,11 +117,14 @@ def make_interval_prop(name, value, permissions="prop-default"):
 
 
 # noinspection PyPep8Naming
-def make_list_prop(name, value, permissions="prop-default"):
+def make_list_prop(name, values, permissions="prop-default"):
     prop_ = etree.Element("list-prop", name=name)
-    value_ = etree.Element("list", permissions=permissions)
-    value_.text = value
-    prop_.append(value_)
+
+    for val in values:
+        value_ = etree.Element("list", permissions=permissions)
+        value_.text = val
+        prop_.append(value_)
+
     return prop_
 
 
@@ -211,7 +214,7 @@ def main():
             song.append(make_text_prop(":hasCompositionDateDisplay", str(row['Kompositionsdatum: Anzeige'])))
 
         if pd.notna(row['Instrumente']):
-            song.append(make_list_prop(":hasInstruments", row['Instrumente']))
+            song.append(make_list_prop(":hasInstruments", row['Instrumente'].split(";")))
 
         if pd.notna(row['Personen/Institutionen']):
             song.append(make_text_prop(":hasPersons", row['Personen/Institutionen']))
@@ -223,10 +226,10 @@ def main():
             song.append(make_text_prop(":hasComment", row['Kommentar']))
 
         if pd.notna(row['Objektart']):
-            song.append(make_list_prop(":hasMusicGenre", row['Objektart']))
+            song.append(make_list_prop(":hasMusicGenre", [row['Objektart']]))
 
         if pd.notna(row['Originalträger']):
-            song.append(make_list_prop(":hasCarrierType", row['Originalträger']))
+            song.append(make_list_prop(":hasCarrierType", [row['Originalträger']]))
 
         if pd.notna(row['Ist ein Teil von']):
             song.append(make_text_prop(":isPartOf", row['Ist ein Teil von']))
