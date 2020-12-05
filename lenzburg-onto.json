@@ -162,7 +162,7 @@
         {
            "name": "hasIdentifier",
            "object": "TextValue",
-           "labels": "Signatur",
+           "labels": { "de": "Signatur" },
            "gui_element": "SimpleText",
            "gui_attributes": {
               "maxlength": "128",
@@ -172,7 +172,7 @@
         {
            "name": "hasIncipit",
            "object": "TextValue",
-           "labels": "Incipit",
+           "labels": { "de": "Incipit" },
            "gui_element": "SimpleText",
            "gui_attributes": {
               "maxlength": "128",
@@ -182,7 +182,7 @@
         {
            "name": "hasTitle",
            "object": "TextValue",
-           "labels": "Titel",
+           "labels": { "de": "Titel" },
            "gui_element": "SimpleText",
            "gui_attributes": {
               "maxlength": "128",
@@ -193,27 +193,27 @@
           "name": "hasComposer",
           "super": ["hasLinkTo"],
           "object": ":Composer",
-          "labels": {"de": "hat KomponistIn"},
+          "labels": { "de": "hat KomponistIn" },
           "gui_element": "Searchbox"
         },
         {
           "name": "hasSongwriter",
           "super": ["hasLinkTo"],
           "object": ":Songwriter",
-          "labels": {"de": "hat TexterIn"},
+          "labels": { "de": "hat TexterIn" },
           "gui_element": "Searchbox"
         },
         {
           "name": "hasInterpreter",
           "super": ["hasLinkTo"],
           "object": ":Interpreter",
-          "labels": {"de": "hat InterpretIn"},
+          "labels": { "de": "hat InterpretIn" },
           "gui_element": "Searchbox"
         },
        {
            "name": "hasName",
            "object": "TextValue",
-           "labels": "Name",
+           "labels": { "de": "Name" },
            "gui_element": "SimpleText",
            "gui_attributes": {
               "maxlength": "128",
@@ -223,7 +223,7 @@
         {
           "name": "hasDuration",
           "object": "TextValue",
-          "labels": "Dauer [min:sec]",
+          "labels": { "de": "Dauer [min:sec]" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -233,7 +233,7 @@
         {
           "name": "hasSongArchiveNum",
           "object": "TextValue",
-          "labels": "Liedarchiv-Nummer",
+          "labels": { "de": "Liedarchiv-Nummer" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -243,7 +243,7 @@
         {
           "name": "hasOldIdentifierTape",
           "object": "TextValue",
-          "labels": "Alte Signatur Tonband",
+          "labels": { "de": "Alte Signatur Tonband" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -253,7 +253,7 @@
         {
           "name": "hasPage",
           "object": "TextValue",
-          "labels": "Seite",
+          "labels": { "de": "Seite" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -263,7 +263,7 @@
         {
           "name": "hasSongNum",
           "object": "TextValue",
-          "labels": "Liednr.",
+          "labels": { "de": "Liednr." },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -273,7 +273,7 @@
         {
           "name": "hasOldSignatureTrack",
           "object": "TextValue",
-          "labels": "Alte Signatur Track",
+          "labels": { "de": "Alte Signatur Track" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -283,7 +283,7 @@
         {
           "name": "hasFirstRecordingLocation",
           "object": "TextValue",
-          "labels": "1. Aufnahmeort",
+          "labels": { "de": "1. Aufnahmeort" },
           "gui_element": "SimpleText",
           "gui_attributes": {
           }
@@ -291,7 +291,7 @@
         {
           "name": "hasPointOfOriginComposition",
           "object": "TextValue",
-          "labels": "2. Herkunftort Komposition",
+          "labels": { "de": "2. Herkunftort Komposition" },
           "gui_element": "SimpleText",
           "gui_attributes": {
           }
@@ -299,7 +299,7 @@
         {
           "name": "hasRecordDateDisplay",
           "object": "TextValue",
-          "labels": "Aufnahmedatum: Anzeige",
+          "labels": { "de": "Aufnahmedatum: Anzeige" },
           "gui_element": "SimpleText",
           "gui_attributes": {
               "maxlength": "128",
@@ -309,7 +309,7 @@
         {
           "name": "hasCompositionDateDisplay",
           "object": "TextValue",
-          "labels": "Kompositionsdatum: Anzeige",
+          "labels": { "de": "Kompositionsdatum: Anzeige" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -319,7 +319,7 @@
         {
           "name": "hasInstruments",
           "object": "ListValue", 
-          "labels": "Instrumente",
+          "labels": { "de": "Instrumente" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -329,7 +329,7 @@
         {
           "name": "hasPersons",
           "object": "TextValue",
-          "labels": "Personen/Institutionen",
+          "labels": { "de": "Personen/Institutionen" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -339,7 +339,7 @@
         {
           "name": "hasKeywords",
           "object": "TextValue",
-          "labels": "Schlagworte",
+          "labels": { "de": "Schlagworte" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -349,7 +349,7 @@
         {
           "name": "hasComment",
           "object": "TextValue",
-          "labels": "Kommentar",
+          "labels": { "de": "Kommentar" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -359,7 +359,7 @@
         {
           "name": "hasMusicGenre",
           "object": "ListValue",
-          "labels": "Objektart",
+          "labels": { "de": "Objektart" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -369,7 +369,7 @@
         {
           "name": "hasCarrierType",
           "object": "ListValue",
-          "labels": "Originalträger",
+          "labels": { "de": "Originalträger" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -379,7 +379,7 @@
         {
           "name": "isPartOf",
           "object": "TextValue",
-          "labels": "Ist ein Teil von",
+          "labels": { "de": "Ist ein Teil von" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -389,7 +389,7 @@
         {
           "name": "hasCollection",
           "object": "TextValue",
-          "labels": "Sammlung",
+          "labels": { "de": "Sammlung" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -399,7 +399,7 @@
         {
           "name": "hasCopyright",
           "object": "TextValue",
-          "labels": "Copyright",
+          "labels": { "de": "Copyright" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -409,7 +409,7 @@
         {
           "name": "hasSimilarTracks",
           "object": "TextValue",
-          "labels": "Ähnliche Lieder/Stücke",
+          "labels": { "de": "Ähnliche Lieder/Stücke" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -419,7 +419,7 @@
         {
           "name": "hasEntryDate",
           "object": "TextValue",
-          "labels": "Erfassungsdatum",
+          "labels": { "de": "Erfassungsdatum" },
           "gui_element": "SimpleText",
           "gui_attributes": {
             "maxlength": "128",
@@ -429,7 +429,7 @@
         {
           "name": "hasPointOfOrigin",
           "object": "TextValue",
-          "labels": {"de": "Herkunftsort"},
+          "labels": { "de": "Herkunftsort" },
           "gui_element": "SimpleText",
           "gui_attributes": {}
         }
@@ -437,7 +437,7 @@
         "resources": [
           {
              "name": "Song",
-             "labels": "Song",
+             "labels": { "de": "Song" },
              "comments": "none",
              "super": "Resource",
              "cardinalities": [
@@ -553,7 +553,7 @@
           },
           {
             "name": "Composer",
-            "labels": "Composer",
+            "labels": { "de": "KomponistIn" },
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
@@ -569,7 +569,7 @@
           },
           {
             "name": "Songwriter",
-            "labels": "Songwriter",
+            "labels": { "de": "TexterIn" },
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
@@ -585,7 +585,7 @@
           },
           {
             "name": "Interpreter",
-            "labels": "Interpreter",
+            "labels": { "de": "InterpretIn" },
             "comments": "none",
             "super": "Resource",
             "cardinalities": [
