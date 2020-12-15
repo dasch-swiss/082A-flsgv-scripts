@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import sys
 import os
+import datetime
 
 from pprint import pprint
 
@@ -208,10 +209,12 @@ def main():
             song.append(make_text_prop(":hasPointOfOriginComposition", row['2. Herkunftort Komposition']))
 
         if pd.notna(row['Aufnahmedatum: Anzeige']):
-            song.append(make_text_prop(":hasRecordDateDisplay", row['Aufnahmedatum: Anzeige']))
+            date_str = row['Aufnahmedatum: Anzeige']
+            date_time_obj = datetime.datetime.strptime(date_str, '%d.%m.%Y')
+            song.append(make_date_prop(":hasRecordDateDisplay", date_time_obj.strftime('%Y-%m-%d')))
 
         if pd.notna(row['Kompositionsdatum: Anzeige']):
-            song.append(make_text_prop(":hasCompositionDateDisplay", str(row['Kompositionsdatum: Anzeige'])))
+            song.append(make_date_prop(":hasCompositionDateDisplay", str(row['Kompositionsdatum: Anzeige'])))
 
         if pd.notna(row['Instrumente']):
             song.append(make_list_prop("instruments", ":hasInstruments", row['Instrumente'].split(";")))
@@ -244,7 +247,7 @@ def main():
             song.append(make_text_prop(":hasSimilarTracks", row['Ähnliche Lieder/Stücke']))
 
         if pd.notna(row['Erfassungsdatum']):
-            song.append(make_text_prop(":hasEntryDate", row['Erfassungsdatum']))
+            song.append(make_date_prop(":hasEntryDate", row['Erfassungsdatum']))
 
         root.append(song)
 

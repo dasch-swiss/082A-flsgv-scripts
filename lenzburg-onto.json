@@ -298,23 +298,15 @@
         },
         {
           "name": "hasRecordDateDisplay",
-          "object": "TextValue",
+          "object": "DateValue",
           "labels": { "de": "Aufnahmedatum: Anzeige" },
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-              "maxlength": "128",
-              "size": 32
-          }
+          "gui_element": "Date"
         },
         {
           "name": "hasCompositionDateDisplay",
-          "object": "TextValue",
+          "object": "DateValue",
           "labels": { "de": "Kompositionsdatum: Anzeige" },
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
+          "gui_element": "Date"
         },
         {
           "name": "hasInstruments",
@@ -418,13 +410,9 @@
         },
         {
           "name": "hasEntryDate",
-          "object": "TextValue",
+          "object": "DateValue",
           "labels": { "de": "Erfassungsdatum" },
-          "gui_element": "SimpleText",
-          "gui_attributes": {
-            "maxlength": "128",
-            "size": 32
-          }
+          "gui_element": "Date"
         },
         {
           "name": "hasPointOfOrigin",

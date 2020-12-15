@@ -50,9 +50,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;Schottland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Dudelsack</list>
       <list permissions="prop-default">Trommel</list>
@@ -75,9 +75,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Daniel Perret;Roland Ambühl" restype=":Interpreter" id="int_obj_0" permissions="res-default">
     <text-prop name=":hasName">
@@ -124,9 +124,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -151,9 +151,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_1" permissions="res-default">
     <text-prop name=":hasName">
@@ -200,9 +200,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
@@ -228,9 +228,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_2" permissions="res-default">
     <text-prop name=":hasName">
@@ -283,12 +283,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1924.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1924.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -313,9 +313,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Charlie Jackso" restype=":Composer" id="comp_obj_3" permissions="res-default">
     <text-prop name=":hasName">
@@ -378,9 +378,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA;Minnesota;Minneapolis</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
@@ -406,9 +406,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_4" permissions="res-default">
     <text-prop name=":hasName">
@@ -458,9 +458,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
@@ -485,9 +485,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The Holy Modal Rounders" restype=":Composer" id="comp_obj_5" permissions="res-default">
     <text-prop name=":hasName">
@@ -545,12 +545,12 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1928.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1928.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Sprecher</list>
       <list permissions="prop-default">Gesang</list>
@@ -576,9 +576,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bascom Lamar Lunsford;Scotty Wiseman" restype=":Composer" id="comp_obj_6" permissions="res-default">
     <text-prop name=":hasName">
@@ -629,9 +629,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Fidel</list>
       <list permissions="prop-default">Banjo</list>
@@ -655,9 +655,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Troubadix" restype=":Interpreter" id="int_obj_7" permissions="res-default">
     <text-prop name=":hasName">
@@ -710,12 +710,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1928.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1928.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Fidel</list>
@@ -740,9 +740,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label=" Alvin Pleasant Carter" restype=":Composer" id="comp_obj_8" permissions="res-default">
     <text-prop name=":hasName">
@@ -805,9 +805,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Mandoline</list>
@@ -831,9 +831,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Troubadix" restype=":Interpreter" id="int_obj_9" permissions="res-default">
     <text-prop name=":hasName">
@@ -883,12 +883,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1935.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1935.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -913,9 +913,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Blind Boy Fuller" restype=":Composer" id="comp_obj_10" permissions="res-default">
     <text-prop name=":hasName">
@@ -981,9 +981,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -1006,9 +1006,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Aleš" restype=":Composer" id="comp_obj_11" permissions="res-default">
     <text-prop name=":hasName">
@@ -1071,9 +1071,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Sitar</list>
@@ -1100,9 +1100,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Aleš" restype=":Composer" id="comp_obj_12" permissions="res-default">
     <text-prop name=":hasName">
@@ -1168,9 +1168,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Flöte</list>
@@ -1194,9 +1194,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Aleš" restype=":Composer" id="comp_obj_13" permissions="res-default">
     <text-prop name=":hasName">
@@ -1265,12 +1265,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1927.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1927.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
@@ -1293,9 +1293,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Frank Hutchison" restype=":Composer" id="comp_obj_14" permissions="res-default">
     <text-prop name=":hasName">
@@ -1358,9 +1358,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
@@ -1383,9 +1383,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Richard O'Brien" restype=":Interpreter" id="int_obj_15" permissions="res-default">
     <text-prop name=":hasName">
@@ -1423,9 +1423,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
     </list-prop>
@@ -1447,9 +1447,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Richard O'Brien" restype=":Composer" id="comp_obj_16" permissions="res-default">
     <text-prop name=":hasName">
@@ -1495,9 +1495,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
@@ -1519,9 +1519,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Reverend Gary Davis" restype=":Composer" id="comp_obj_17" permissions="res-default">
     <text-prop name=":hasName">
@@ -1573,9 +1573,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
@@ -1597,9 +1597,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Elizabeth Cotton" restype=":Composer" id="comp_obj_18" permissions="res-default">
     <text-prop name=":hasName">
@@ -1648,9 +1648,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
@@ -1672,9 +1672,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Elizabeth Cotton" restype=":Composer" id="comp_obj_19" permissions="res-default">
     <text-prop name=":hasName">
@@ -1726,12 +1726,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1921.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1921.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Kazoo</list>
@@ -1755,9 +1755,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="James Scott" restype=":Composer" id="comp_obj_20" permissions="res-default">
     <text-prop name=":hasName">
@@ -1815,9 +1815,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
@@ -1841,9 +1841,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Henry Saint Clair Fredericks" restype=":Composer" id="comp_obj_21" permissions="res-default">
     <text-prop name=":hasName">
@@ -1906,9 +1906,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -1931,9 +1931,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Melanie Safka" restype=":Composer" id="comp_obj_22" permissions="res-default">
     <text-prop name=":hasName">
@@ -2002,9 +2002,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2027,9 +2027,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Tom Paxton" restype=":Composer" id="comp_obj_23" permissions="res-default">
     <text-prop name=":hasName">
@@ -2098,9 +2098,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2123,9 +2123,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Melanie Safka" restype=":Composer" id="comp_obj_24" permissions="res-default">
     <text-prop name=":hasName">
@@ -2188,9 +2188,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2213,9 +2213,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Hopfe u Malz" restype=":Interpreter" id="int_obj_25" permissions="res-default">
     <text-prop name=":hasName">
@@ -2268,9 +2268,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;Schottland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2293,9 +2293,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Donovan Leitch" restype=":Composer" id="comp_obj_26" permissions="res-default">
     <text-prop name=":hasName">
@@ -2364,9 +2364,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2389,9 +2389,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Leonard Cohen" restype=":Composer" id="comp_obj_27" permissions="res-default">
     <text-prop name=":hasName">
@@ -2457,9 +2457,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2483,9 +2483,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kurt Briefer" restype=":Composer" id="comp_obj_28" permissions="res-default">
     <text-prop name=":hasName">
@@ -2551,9 +2551,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2577,9 +2577,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kurt Briefer" restype=":Composer" id="comp_obj_29" permissions="res-default">
     <text-prop name=":hasName">
@@ -2645,9 +2645,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Basel-Stadt;Basel</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2671,9 +2671,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kurt Briefer" restype=":Composer" id="comp_obj_30" permissions="res-default">
     <text-prop name=":hasName">
@@ -2742,9 +2742,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2768,9 +2768,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bob Dylan" restype=":Composer" id="comp_obj_31" permissions="res-default">
     <text-prop name=":hasName">
@@ -2839,9 +2839,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2865,9 +2865,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Gary Davis" restype=":Composer" id="comp_obj_32" permissions="res-default">
     <text-prop name=":hasName">
@@ -2930,12 +2930,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1850.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1850.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -2958,9 +2958,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Silvio Ballinari;Ueli Gubler" restype=":Interpreter" id="int_obj_33" permissions="res-default">
     <text-prop name=":hasName">
@@ -3007,9 +3007,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Griechenland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3032,9 +3032,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Silvio Ballinari;Ueli Gubler" restype=":Interpreter" id="int_obj_34" permissions="res-default">
     <text-prop name=":hasName">
@@ -3087,9 +3087,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3113,9 +3113,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Woody Guthrie" restype=":Composer" id="comp_obj_35" permissions="res-default">
     <text-prop name=":hasName">
@@ -3184,9 +3184,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3209,9 +3209,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Ed McCurdy" restype=":Composer" id="comp_obj_36" permissions="res-default">
     <text-prop name=":hasName">
@@ -3277,12 +3277,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Italien</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1971.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1971.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3305,9 +3305,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Jimmy Fontana" restype=":Composer" id="comp_obj_37" permissions="res-default">
     <text-prop name=":hasName">
@@ -3370,9 +3370,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Mexiko</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3395,9 +3395,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Silvio Ballinari;Ueli Gubler" restype=":Interpreter" id="int_obj_38" permissions="res-default">
     <text-prop name=":hasName">
@@ -3450,9 +3450,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3475,9 +3475,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Woody Guthrie" restype=":Composer" id="comp_obj_39" permissions="res-default">
     <text-prop name=":hasName">
@@ -3540,9 +3540,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3565,9 +3565,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Roland Zbinde;René Haueter" restype=":Interpreter" id="int_obj_40" permissions="res-default">
     <text-prop name=":hasName">
@@ -3620,9 +3620,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3645,9 +3645,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Mississippi John Hurt" restype=":Composer" id="comp_obj_41" permissions="res-default">
     <text-prop name=":hasName">
@@ -3716,9 +3716,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3741,9 +3741,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Leonard Cohen" restype=":Composer" id="comp_obj_42" permissions="res-default">
     <text-prop name=":hasName">
@@ -3812,9 +3812,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Kanada</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3837,9 +3837,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Leonard Cohen" restype=":Composer" id="comp_obj_43" permissions="res-default">
     <text-prop name=":hasName">
@@ -3908,9 +3908,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -3933,9 +3933,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Hughie Cannon" restype=":Composer" id="comp_obj_44" permissions="res-default">
     <text-prop name=":hasName">
@@ -4001,12 +4001,12 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1940.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1940.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4029,9 +4029,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Sholom Secunda" restype=":Composer" id="comp_obj_45" permissions="res-default">
     <text-prop name=":hasName">
@@ -4091,9 +4091,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
@@ -4118,9 +4118,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Alvin Pleasant Carter" restype=":Composer" id="comp_obj_46" permissions="res-default">
     <text-prop name=":hasName">
@@ -4174,9 +4174,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4201,9 +4201,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="George Tempest" restype=":Interpreter" id="int_obj_47" permissions="res-default">
     <text-prop name=":hasName">
@@ -4253,9 +4253,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4279,9 +4279,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Peggy Seeger;Ewan MacColl" restype=":Composer" id="comp_obj_48" permissions="res-default">
     <text-prop name=":hasName">
@@ -4338,9 +4338,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England;Norfolk</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
@@ -4365,9 +4365,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="George Tempest" restype=":Interpreter" id="int_obj_49" permissions="res-default">
     <text-prop name=":hasName">
@@ -4417,9 +4417,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4442,9 +4442,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Maria Kägi" restype=":Composer" id="comp_obj_50" permissions="res-default">
     <text-prop name=":hasName">
@@ -4504,9 +4504,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4529,9 +4529,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Maria Kägi" restype=":Composer" id="comp_obj_51" permissions="res-default">
     <text-prop name=":hasName">
@@ -4591,9 +4591,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4616,9 +4616,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Maria Kägi" restype=":Composer" id="comp_obj_52" permissions="res-default">
     <text-prop name=":hasName">
@@ -4681,12 +4681,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1959.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1959.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4709,9 +4709,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Jimmy Driftwood" restype=":Composer" id="comp_obj_53" permissions="res-default">
     <text-prop name=":hasName">
@@ -4780,12 +4780,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Südafrika</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1961.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1961.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4808,9 +4808,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Jeremy Taylor" restype=":Composer" id="comp_obj_54" permissions="res-default">
     <text-prop name=":hasName">
@@ -4879,9 +4879,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4904,9 +4904,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Cisco Houston" restype=":Composer" id="comp_obj_55" permissions="res-default">
     <text-prop name=":hasName">
@@ -4966,9 +4966,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -4991,9 +4991,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Perry, Hans und Peter" restype=":Interpreter" id="int_obj_56" permissions="res-default">
     <text-prop name=":hasName">
@@ -5040,9 +5040,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
@@ -5067,9 +5067,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Fullhouse" restype=":Interpreter" id="int_obj_57" permissions="res-default">
     <text-prop name=":hasName">
@@ -5116,9 +5116,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
@@ -5143,9 +5143,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Fullhouse" restype=":Interpreter" id="int_obj_58" permissions="res-default">
     <text-prop name=":hasName">
@@ -5189,9 +5189,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Chor</list>
@@ -5214,9 +5214,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Fullhouse" restype=":Interpreter" id="int_obj_59" permissions="res-default">
     <text-prop name=":hasName">
@@ -5263,9 +5263,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -5289,9 +5289,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Fullhouse" restype=":Interpreter" id="int_obj_60" permissions="res-default">
     <text-prop name=":hasName">
@@ -5344,9 +5344,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -5369,9 +5369,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Franz Josef Degenhardt" restype=":Composer" id="comp_obj_61" permissions="res-default">
     <text-prop name=":hasName">
@@ -5440,9 +5440,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Bundesrepublik Deutschland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -5465,9 +5465,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Franz Josef Degenhardt" restype=":Composer" id="comp_obj_62" permissions="res-default">
     <text-prop name=":hasName">
@@ -5536,9 +5536,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Deutsche Demokratische Republik</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -5561,9 +5561,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Wolf Biermann" restype=":Composer" id="comp_obj_63" permissions="res-default">
     <text-prop name=":hasName">
@@ -5632,9 +5632,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -5657,9 +5657,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bob Dylan" restype=":Composer" id="comp_obj_64" permissions="res-default">
     <text-prop name=":hasName">
@@ -5728,9 +5728,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Piano</list>
@@ -5753,9 +5753,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Chlöisu Friedli" restype=":Composer" id="comp_obj_65" permissions="res-default">
     <text-prop name=":hasName">
@@ -5809,9 +5809,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
@@ -5833,9 +5833,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Chlöisu Friedli" restype=":Interpreter" id="int_obj_66" permissions="res-default">
     <text-prop name=":hasName">
@@ -5888,12 +5888,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1924.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1924.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
       <list permissions="prop-default">Gesang</list>
@@ -5916,9 +5916,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Charlie Jackson" restype=":Composer" id="comp_obj_67" permissions="res-default">
     <text-prop name=":hasName">
@@ -5975,9 +5975,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA;Illinois;Chicago</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
@@ -5999,9 +5999,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Jimmy Yancey" restype=":Composer" id="comp_obj_68" permissions="res-default">
     <text-prop name=":hasName">
@@ -6062,9 +6062,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
       <list permissions="prop-default">Gesang</list>
@@ -6087,9 +6087,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Chlöisu Friedli" restype=":Composer" id="comp_obj_69" permissions="res-default">
     <text-prop name=":hasName">
@@ -6146,9 +6146,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA;Illinois;Chicago</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Piano</list>
     </list-prop>
@@ -6170,9 +6170,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Jimmy Yancey" restype=":Composer" id="comp_obj_70" permissions="res-default">
     <text-prop name=":hasName">
@@ -6233,9 +6233,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6258,9 +6258,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Urs Hostettler" restype=":Composer" id="comp_obj_71" permissions="res-default">
     <text-prop name=":hasName">
@@ -6329,9 +6329,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6354,9 +6354,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Urs Hostettler" restype=":Composer" id="comp_obj_72" permissions="res-default">
     <text-prop name=":hasName">
@@ -6425,9 +6425,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6450,9 +6450,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Urs Hostettler" restype=":Composer" id="comp_obj_73" permissions="res-default">
     <text-prop name=":hasName">
@@ -6521,9 +6521,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6546,9 +6546,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Urs Hostettler" restype=":Composer" id="comp_obj_74" permissions="res-default">
     <text-prop name=":hasName">
@@ -6617,9 +6617,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6645,9 +6645,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Malvina Reynolds" restype=":Composer" id="comp_obj_75" permissions="res-default">
     <text-prop name=":hasName">
@@ -6716,9 +6716,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -6741,9 +6741,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Urs Hostettler" restype=":Composer" id="comp_obj_76" permissions="res-default">
     <text-prop name=":hasName">
@@ -6803,9 +6803,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -6829,9 +6829,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bill Napier" restype=":Composer" id="comp_obj_77" permissions="res-default">
     <text-prop name=":hasName">
@@ -6892,9 +6892,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Mandoline</list>
@@ -6919,9 +6919,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bob Dylan" restype=":Composer" id="comp_obj_78" permissions="res-default">
     <text-prop name=":hasName">
@@ -6978,9 +6978,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -7004,9 +7004,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bill Monroe" restype=":Composer" id="comp_obj_79" permissions="res-default">
     <text-prop name=":hasName">
@@ -7067,9 +7067,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -7092,9 +7092,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Woody Guthrie" restype=":Composer" id="comp_obj_80" permissions="res-default">
     <text-prop name=":hasName">
@@ -7163,9 +7163,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -7188,9 +7188,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Tom Paxton" restype=":Composer" id="comp_obj_81" permissions="res-default">
     <text-prop name=":hasName">
@@ -7259,9 +7259,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -7284,9 +7284,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Joe McDonald" restype=":Composer" id="comp_obj_82" permissions="res-default">
     <text-prop name=":hasName">
@@ -7346,9 +7346,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
@@ -7370,9 +7370,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Doc Watson" restype=":Composer" id="comp_obj_83" permissions="res-default">
     <text-prop name=":hasName">
@@ -7427,9 +7427,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Gesang</list>
@@ -7452,9 +7452,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Martin Diem" restype=":Interpreter" id="int_obj_84" permissions="res-default">
     <text-prop name=":hasName">
@@ -7492,9 +7492,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
@@ -7520,9 +7520,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_85" permissions="res-default">
     <text-prop name=":hasName">
@@ -7563,9 +7563,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Maultrommel</list>
@@ -7591,9 +7591,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_86" permissions="res-default">
     <text-prop name=":hasName">
@@ -7637,9 +7637,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Autoharp</list>
       <list permissions="prop-default">Gitarre</list>
@@ -7663,9 +7663,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Ernest Stoneman" restype=":Composer" id="comp_obj_87" permissions="res-default">
     <text-prop name=":hasName">
@@ -7714,9 +7714,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
@@ -7742,9 +7742,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_88" permissions="res-default">
     <text-prop name=":hasName">
@@ -7785,9 +7785,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
       <list permissions="prop-default">Bass</list>
@@ -7810,9 +7810,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_89" permissions="res-default">
     <text-prop name=":hasName">
@@ -7859,9 +7859,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
@@ -7886,9 +7886,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_90" permissions="res-default">
     <text-prop name=":hasName">
@@ -7932,9 +7932,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Geige</list>
@@ -7960,9 +7960,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Country Ramblers" restype=":Interpreter" id="int_obj_91" permissions="res-default">
     <text-prop name=":hasName">
@@ -8003,9 +8003,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8028,9 +8028,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kathryn Gurewitsch;Matthew Gurewitsch" restype=":Interpreter" id="int_obj_92" permissions="res-default">
     <text-prop name=":hasName">
@@ -8083,9 +8083,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8108,9 +8108,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bob Dylan" restype=":Composer" id="comp_obj_93" permissions="res-default">
     <text-prop name=":hasName">
@@ -8179,9 +8179,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8204,9 +8204,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Hughie Cannon" restype=":Composer" id="comp_obj_94" permissions="res-default">
     <text-prop name=":hasName">
@@ -8269,9 +8269,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8294,9 +8294,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kathryn Gurewitsch;Matthew Gurewitsch" restype=":Interpreter" id="int_obj_95" permissions="res-default">
     <text-prop name=":hasName">
@@ -8343,9 +8343,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Chor</list>
     </list-prop>
@@ -8367,9 +8367,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Kathryn Gurewitsch;Matthew Gurewitsch;Gabriel" restype=":Interpreter" id="int_obj_96" permissions="res-default">
     <text-prop name=":hasName">
@@ -8422,9 +8422,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8447,9 +8447,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Albert Frank Beddoe" restype=":Composer" id="comp_obj_97" permissions="res-default">
     <text-prop name=":hasName">
@@ -8500,9 +8500,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -8527,9 +8527,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_98" permissions="res-default">
     <text-prop name=":hasName">
@@ -8564,9 +8564,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
@@ -8590,9 +8590,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_99" permissions="res-default">
     <text-prop name=":hasName">
@@ -8636,9 +8636,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -8662,9 +8662,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_100" permissions="res-default">
     <text-prop name=":hasName">
@@ -8717,12 +8717,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1911.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1911.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Autoharp</list>
@@ -8747,9 +8747,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Chris Smith" restype=":Composer" id="comp_obj_101" permissions="res-default">
     <text-prop name=":hasName">
@@ -8812,9 +8812,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Geige</list>
@@ -8838,9 +8838,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_102" permissions="res-default">
     <text-prop name=":hasName">
@@ -8878,9 +8878,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -8905,9 +8905,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_103" permissions="res-default">
     <text-prop name=":hasName">
@@ -8954,9 +8954,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Maultrommel</list>
       <list permissions="prop-default">Gesang</list>
@@ -8979,9 +8979,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_104" permissions="res-default">
     <text-prop name=":hasName">
@@ -9022,9 +9022,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Geige</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9049,9 +9049,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="The String Band" restype=":Interpreter" id="int_obj_105" permissions="res-default">
     <text-prop name=":hasName">
@@ -9092,9 +9092,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Schweiz;Bern</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gitarre</list>
     </list-prop>
@@ -9116,9 +9116,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="René Haueter" restype=":Composer" id="comp_obj_106" permissions="res-default">
     <text-prop name=":hasName">
@@ -9167,9 +9167,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9194,9 +9194,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Skibbereen" restype=":Interpreter" id="int_obj_107" permissions="res-default">
     <text-prop name=":hasName">
@@ -9237,9 +9237,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Querflöte</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9264,9 +9264,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Skibbereen" restype=":Interpreter" id="int_obj_108" permissions="res-default">
     <text-prop name=":hasName">
@@ -9313,9 +9313,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9340,9 +9340,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Skibbereen" restype=":Interpreter" id="int_obj_109" permissions="res-default">
     <text-prop name=":hasName">
@@ -9383,9 +9383,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9410,9 +9410,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Skibbereen" restype=":Interpreter" id="int_obj_110" permissions="res-default">
     <text-prop name=":hasName">
@@ -9453,9 +9453,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">Irland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9480,9 +9480,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Skibbereen" restype=":Interpreter" id="int_obj_111" permissions="res-default">
     <text-prop name=":hasName">
@@ -9526,12 +9526,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1950.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1950.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -9555,9 +9555,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Earl Scruggs" restype=":Composer" id="comp_obj_112" permissions="res-default">
     <text-prop name=":hasName">
@@ -9615,12 +9615,12 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1968.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1968.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9645,9 +9645,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="John Fogerty" restype=":Composer" id="comp_obj_113" permissions="res-default">
     <text-prop name=":hasName">
@@ -9707,12 +9707,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1954.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1954.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -9736,9 +9736,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Arthur Smith" restype=":Composer" id="comp_obj_114" permissions="res-default">
     <text-prop name=":hasName">
@@ -9793,9 +9793,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Gitarre</list>
@@ -9820,9 +9820,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="15 Strings Band;Hervé de Sainte Foy" restype=":Interpreter" id="int_obj_115" permissions="res-default">
     <text-prop name=":hasName">
@@ -9866,9 +9866,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Mandoline</list>
       <list permissions="prop-default">Banjo</list>
@@ -9892,9 +9892,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Earl Scruggs" restype=":Composer" id="comp_obj_116" permissions="res-default">
     <text-prop name=":hasName">
@@ -9949,9 +9949,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
     </list-prop>
@@ -9973,9 +9973,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Dick Watts" restype=":Interpreter" id="int_obj_117" permissions="res-default">
     <text-prop name=":hasName">
@@ -10022,9 +10022,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;England</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
     </list-prop>
@@ -10046,9 +10046,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Dick Watts" restype=":Interpreter" id="int_obj_118" permissions="res-default">
     <text-prop name=":hasName">
@@ -10083,9 +10083,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
@@ -10109,9 +10109,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bluegrass Blossoms" restype=":Interpreter" id="int_obj_119" permissions="res-default">
     <text-prop name=":hasName">
@@ -10164,12 +10164,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1918.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1918.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -10194,9 +10194,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Tillit S. Teddlie" restype=":Composer" id="comp_obj_120" permissions="res-default">
     <text-prop name=":hasName">
@@ -10259,12 +10259,12 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">USA</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
-    <text-prop name=":hasCompositionDateDisplay">
-      <text permissions="prop-default" encoding="utf8">1876.0</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
+    <date-prop name=":hasCompositionDateDisplay">
+      <date permissions="prop-default">1876.0</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Banjo</list>
       <list permissions="prop-default">Mandoline</list>
@@ -10288,9 +10288,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Henry Clay Work" restype=":Composer" id="comp_obj_121" permissions="res-default">
     <text-prop name=":hasName">
@@ -10350,9 +10350,9 @@
     <text-prop name=":hasFirstRecordingLocation">
       <text permissions="prop-default" encoding="utf8">Schweiz;Aargau;Lenzburg;Rittersaal</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Gesang</list>
       <list permissions="prop-default">Banjo</list>
@@ -10377,9 +10377,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Bluegrass Blossoms" restype=":Interpreter" id="int_obj_122" permissions="res-default">
     <text-prop name=":hasName">
@@ -10417,9 +10417,9 @@
     <text-prop name=":hasPointOfOriginComposition">
       <text permissions="prop-default" encoding="utf8">UK;Schottland</text>
     </text-prop>
-    <text-prop name=":hasRecordDateDisplay">
-      <text permissions="prop-default" encoding="utf8">02.07.1972</text>
-    </text-prop>
+    <date-prop name=":hasRecordDateDisplay">
+      <date permissions="prop-default">1972-07-02</date>
+    </date-prop>
     <list-prop list="instruments" name=":hasInstruments">
       <list permissions="prop-default">Dudelsack</list>
       <list permissions="prop-default">Trommel</list>
@@ -10442,9 +10442,9 @@
     <text-prop name=":hasCopyright">
       <text permissions="prop-default" encoding="utf8">SGV</text>
     </text-prop>
-    <text-prop name=":hasEntryDate">
-      <text permissions="prop-default" encoding="utf8">27.05.2020</text>
-    </text-prop>
+    <date-prop name=":hasEntryDate">
+      <date permissions="prop-default">27.05.2020</date>
+    </date-prop>
   </resource>
   <resource label="Daniel Perret;Roland Ambühl" restype=":Interpreter" id="int_obj_123" permissions="res-default">
     <text-prop name=":hasName">
